@@ -6,6 +6,6 @@ file contains programs to expore time trend of terrestrial food and aquatic food
 Program "find most significant period.py" finds for the period with lowest p_value in person correlation test for each pair of PFAS-food type.
 Monte Carlo statistics for global PFAS level in aquatic food weighted by market values (2020 and 2030 export and production.xlsx) was conducted in "global PFAS level.py". 
 2) "consumption"
-file contains programs and raw data for both projected values of animal-sourced food consumption in 47 countries, and the FAO estimated consumption in the United States. In program file, "read_file.py" is a module to be loaded in "estimated food in 2050.py". The later predict consumptions in 2021-2050, using data in file "consumption raw data".
+file contains programs and results of projected values of animal-sourced food consumption in 47 countries, in addition to the FAO estimated consumption in the United States. In "program" file, "read_file.py" is a module to be loaded in "estimated food in 2050.py". The later predict consumptions in 2021-2050, using data in file "consumption raw data".
 
 Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
