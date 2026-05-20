@@ -2,3 +2,5 @@
 data and algorithm employed in research "Blue Transformation Dilemma in Dietary PFAS exposure". Project Includes data analysis for food PFAS concentrations, economic driven food consumption projection, serum vs estimated daily intake, and health outcome prediction.
 
 1) concentration analysis file contains programs to expore time trend of terrestrial food and aquatic food PFAS concentrations (data in "PFAS in food (1113).csv", "PFAS in food (1113 EA).csv" for Asia, "PFAS in food (1113 NA EU).csv" for North America & Europe), employing Monte Carlo statistics (functions in MC stats.py).  Monte Carlo statistics for global PFAS level in aquatic food weighted by market values (2020 and 2030 export and production.xlsx) was conducted in global PFAS level.py
+
+Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
