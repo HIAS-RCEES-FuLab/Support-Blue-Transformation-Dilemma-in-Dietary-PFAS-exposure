@@ -15,8 +15,11 @@ data and algorithm employed in research "Blue Transformation Dilemma in Dietary 
 5) "EDIs vs NHANES serum concentrations"
 * file contains input_file, program, and results (results data is in Releases due to large file size). The serum concnetration were predicted for individuals corresponding to the relative percentile: a person with serum concentration at 25% in 2016 would still have his/her serum concentration at 25% in 2050, but the geometric mean value of population serum concnetrations will shift based on the fitted curve.
 6) "double machine learning"
-* file contrins input_file, program, and sensitivity_results. 
-6.1) "test_NN_clssification_F_BPQ020.py" and "test_NN_clssification_F_MCQ160A.py" builds the "NRFRegressionTreeNode" models for BPQ020 and MCQ160A; the trained models are NNTree_BPQ020.pth and NNTree_MCQ160A.pth, respectively.
-6.2)"DMLOrthoForest (BPQ020 NN-causalforest).py" and "DMLOrthoForest (MCQ160A NN-causalforest).py" built double machine learning models using pretrained "NRFRegressionTreeNode" models as Y-model.  "DMLOrthoForest (reg).py" built double machine learning models using xgboost as Y-model. 
-6.3) Those programs also compared the results with xgboost buy correlation test as a method cross validation. The sensitivity were also tested, including: coverites-permutation test, treatment-permutation test, coverites-robustness test, and treatment-robustness test.
+* file contrins input_file, program, and sensitivity_results. The specific results are in "effects" file in "BPQ020", "MCQ160A", and "continuous" file in releases. Summary is in "Data 5_Health outcomes predicted by double machine learning in 2020 and 2050 by region".
+
+  6.1) "test_NN_clssification_F_BPQ020.py" and "test_NN_clssification_F_MCQ160A.py" builds the "NRFRegressionTreeNode" models for BPQ020 and MCQ160A; the trained models are NNTree_BPQ020.pth and NNTree_MCQ160A.pth, respectively.
+  
+  6.2)"DMLOrthoForest (BPQ020 NN-causalforest).py" and "DMLOrthoForest (MCQ160A NN-causalforest).py" built double machine learning models using pretrained "NRFRegressionTreeNode" models as Y-model.  "DMLOrthoForest (reg).py" built double machine learning models using xgboost as Y-model.
+  
+  6.3) Those programs also compared the results with xgboost buy correlation test as a method cross validation. The sensitivity were also tested, including: coverites-permutation test, treatment-permutation test, coverites-robustness test, and treatment-robustness test.
 Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
