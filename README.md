@@ -19,7 +19,7 @@ data and algorithm employed in research "Blue Transformation Dilemma in Dietary 
 
   6.1) "test_NN_clssification_F_BPQ020.py" and "test_NN_clssification_F_MCQ160A.py" builds the "NRFRegressionTreeNode" models for BPQ020 and MCQ160A; the trained models are NNTree_BPQ020.pth and NNTree_MCQ160A.pth, respectively.
   
-  6.2)"DMLOrthoForest (BPQ020 NN-causalforest).py" and "DMLOrthoForest (MCQ160A NN-causalforest).py" built double machine learning models using pretrained "NRFRegressionTreeNode" models as Y-model.  "DMLOrthoForest (reg).py" built double machine learning models using xgboost as Y-model.
+  6.2)"DMLOrthoForest (BPQ020 NN-causalforest).py" and "DMLOrthoForest (MCQ160A NN-causalforest).py" built double machine learning models using pretrained "NRFRegressionTreeNode" models as Y-model, to predict PFAS attributable disease health outcomes (individual treatment effects). "DMLOrthoForest (reg).py" built double machine learning models using xgboost as Y-model, to predict indivator health outcomes.
   
   6.3) Those programs also compared the results with xgboost buy correlation test as a method cross validation. The sensitivity were also tested, including: coverites-permutation test, treatment-permutation test, coverites-robustness test, and treatment-robustness test.
 Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
