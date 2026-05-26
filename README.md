@@ -23,6 +23,6 @@ data and algorithm employed in research "Blue Transformation Dilemma in Dietary 
   
   6.3) Those programs also compared the results with xgboost buy correlation test as a method cross validation. The sensitivity were also tested, including: coverites-permutation test, treatment-permutation test, coverites-robustness test, and treatment-robustness test.
 
-Data 1~4 are directively linked to the article. So is data 5, which is in Relases.
+Data 1~4 are directively linked to the article. So is data 5, which is in Releases.
 
 Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
