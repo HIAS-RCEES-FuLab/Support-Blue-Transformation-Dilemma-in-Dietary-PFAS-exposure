@@ -4,11 +4,11 @@ This repository contains the portable analysis pipeline, plotting scripts and in
 
 [Portable pipeline](#bluefood-portable-pipeline) · [Figure reproduction](#figure-reproduction) · [Data 1–7](#data-1-to-7)
 
-## BlueFood Portable Pipeline
+## Portable Pipeline
 
 [Download the pipeline ZIP](pipeline/BlueFood%20Portable%20Pipeline.zip?raw=1) · [Data and key scripts README](pipeline/README.md)
 
-### BlueFood Pipeline Data and Key Scripts
+### Pipeline Data and Key Scripts
 
 The paths below are relative to the extracted pipeline folder. `README.docx` in the archive is the illustrated user guide.
 
