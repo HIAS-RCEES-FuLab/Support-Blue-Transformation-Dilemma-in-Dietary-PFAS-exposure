@@ -102,3 +102,7 @@ Key PBK outputs include PFOA_PFOS_period_results.csv, the US_PBK_R plot, and the
 | `research/health.py`<br>`research/assets/health/health_outcomes.json`<br>`research/assets/health/published/` | Fit and apply models for 34 continuous and two binary outcomes. The published folder has DMLOrthoForest (reg).py, the BPQ020 and MCQ160A variants, and their neural tree checkpoints. |
 
 The serum stage writes country_serum_concentrations.csv and regional_world_serum.csv. The health stage writes country_health_outcomes.csv and regional_world_health_outcomes.csv. The 2050 health summary compares the projected outcomes against 2020 Trade.
+
+### Participant ages for continuous outcomes
+
+[model_participants_ages.csv](source/research/assets/health/published_data/model_participants_ages.csv) accompanies the cleaned continuous outcomes workbook. Join by `SEQN` to match `RIDAGEYR` to all 7,618 participants. The supplied CSV also has a populated age on a row without `SEQN` and one blank row. The age table is supplied separately from the model inputs used for fitting.
