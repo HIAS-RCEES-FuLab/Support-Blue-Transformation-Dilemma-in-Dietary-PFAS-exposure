@@ -1,4 +1,4 @@
-# BlueFood Pipeline Data and Key Scripts
+# Pipeline Data and Key Scripts
 
 *Companion guide for the Blue Transformation manuscript*
 
