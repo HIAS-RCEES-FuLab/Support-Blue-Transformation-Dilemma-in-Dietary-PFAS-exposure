@@ -1,30 +1,60 @@
-# Support-Blue-Transformation-Dilemma-in-Dietary-PFAS-exposure
-data and algorithm employed in research "Blue Transformation Dilemma in Dietary PFAS exposure". Project Includes data analysis for food PFAS concentrations, economic driven food consumption projection, national food GHG emissions, serum vs estimated daily intake, and health outcome prediction (double machine learning).
+# Blue Transformation Dilemma in Dietary PFAS Exposure
 
-See the [figure reproduction guide](figures/README.md) for the main and Supplementary Information figure files and plotting environment.
+This repository contains the portable analysis pipeline, plotting scripts and inputs for the main and Supplementary Information figures, and the seven datasets accompanying the manuscript.
 
-1) "concentration analysis"
-* file contains programs to expore time trend of terrestrial food and aquatic food PFAS concentrations (data in "PFAS in food (1113).csv", "PFAS in food (1113 EA).csv" for Asia, "PFAS in food (1113 NA EU).csv" for North America & Europe), employing Monte Carlo statistics (functions in "MC stats.py").
-* Program "find most significant period.py" finds for the period with lowest p_value in person correlation test for each pair of PFAS-food type.
-* Monte Carlo statistics for global PFAS level in aquatic food weighted by market values (2020 and 2030 export and production.xlsx) was conducted in "global PFAS level.py".
-* the "most_signigicant_periods" were later used in estimation of daily intake.
-2) "consumption"
-* file contains programs and results of projected values of animal-sourced food consumption in 47 countries, in addition to the FAO estimated consumption in the United States. In "program" file, "read_file.py" is a module to be loaded in "estimated food in 2050.py". The later predict consumptions in 2021-2050, using data in file "consumption raw data".
-3) "estimate daily intake"
-* file contains programs and summaized results that estimate daily intake PFAS amount (before devided by body weight) in the United States (2003-2016), and in 47 countries (2020, 6 scenarios in 2050), in addition to that in 47 countries when top 5% contaminated aquatic food from 5 countries were baned (High road pathway & Metatrade mode in 2050). Note that, intake amounts were used in serum level prediction: those of US 2003-2016 were used for curve_fit, and those of 2020 and 2050 6 scenarios were used to predict serum concentrations in correspoding time.
-4) "national_food_GHG_intake"
-* file contains program, input_file, results, and summary of national total GHG emissions and food emission intensity (GHG emission by unit amount of edible weight). the GHG emissions by each type of terrestrial foods are assumed in normal distribution (statisitics in "CO2 emission.xlsx"), and those by aquatic foods are randomly drawed from pool in "CO2 emission.xlsx". Food consumptions in edible weights were computed by "compute edible weights.py".
-5) "EDIs vs NHANES serum concentrations"
-* file contains input_file, program, and results (results data is in Releases due to large file size). The serum concnetration were predicted for individuals corresponding to the relative percentile: a person with serum concentration at 25% in 2016 would still have his/her serum concentration at 25% in 2050, but the geometric mean value of population serum concnetrations will shift based on the fitted curve.
-6) "double machine learning"
-* file contrins input_file, program, and sensitivity_results. The specific results are in "effects" file in "BPQ020", "MCQ160A", and "continuous" file in releases. Summary is in "Data 5_Health outcomes predicted by double machine learning in 2020 and 2050 by region".
+[Portable pipeline](#bluefood-portable-pipeline) · [Figure reproduction](#figure-reproduction) · [Data 1–7](#data-1-to-7)
 
-  6.1) "test_NN_clssification_F_BPQ020.py" and "test_NN_clssification_F_MCQ160A.py" builds the "NRFRegressionTreeNode" models for BPQ020 and MCQ160A; the trained models are NNTree_BPQ020.pth and NNTree_MCQ160A.pth, respectively.
-  
-  6.2)"DMLOrthoForest (BPQ020 NN-causalforest).py" and "DMLOrthoForest (MCQ160A NN-causalforest).py" built double machine learning models using pretrained "NRFRegressionTreeNode" models as Y-model, to predict PFAS attributable disease health outcomes (individual treatment effects). "DMLOrthoForest (reg).py" built double machine learning models using xgboost as Y-model, to predict indivator health outcomes.
-  
-  6.3) Those programs also compared the results with xgboost buy correlation test as a method cross validation. The sensitivity were also tested, including: coverites-permutation test, treatment-permutation test, coverites-robustness test, and treatment-robustness test.
+## BlueFood Portable Pipeline
 
-Data 1~4 are directively linked to the article. So is data 5, which is in Releases.
+[Download the pipeline ZIP](pipeline/BlueFood%20Portable%20Pipeline.zip?raw=1) · [Download the data and script guide (Word)](pipeline/BlueFood%20Pipeline%20Data%20and%20Key%20Scripts.docx?raw=1)
 
-Note: ./ refer to the same dictionary path to the position of script; ../ refer to the dictionary path one level up to the script (parent dictionary)
+### BlueFood Pipeline Data and Key Scripts
+
+The paths below are relative to the extracted pipeline folder. `README.docx` in the archive is the illustrated user guide.
+
+| Workflow | Key files in the pipeline |
+| --- | --- |
+| Setup and launch | `research/bootstrap.py` creates the Miniforge environment. `research/launch.py`, `research/app.py`, and `research/worker.py` start the dashboard and run the selected stages. |
+| US dietary exposure, 2003–2016 | `research/assets/us/code/run_us_exposure.py` and `exposure_model.py` use annual food quantities, trade matrices, food PFAS measurements, and aquatic time trends from `research/assets/us/inputs/`. |
+| Global dietary exposure and hazard index, 2020 and 2050 | `research/calculations.py` and `research/assets/global/program/` run the scenarios. Food PFAS data, trade matrices, country populations, and pathway diets are under `research/assets/global/input_file/`. |
+| Diet pathways and emissions | `research/assets/global/input_file/diet/` holds the 2020, Low Road (LR), Business as Usual (BAU), and High Road (HR) diets. The CO₂ card in `research/calculations.py` reweights the archived `research/assets/co2/Figure 4a country rates.csv`. Use the same diet file for each pathway when recalculating CO₂ and EDI together. |
+| US PFOA and PFOS kinetics | `research/r_runner.R` and `research/assets/r/code/` run the physiologically based kinetic (PBK) model using absolute dietary intake and food bioavailability factors. |
+| Serum and health outcomes, 2020 and 2050 | `research/serum_comparison.py` compares measured and modeled serum concentrations. `research/health.py` applies the health models using the NHANES inputs and model definitions in `research/assets/health/`. |
+| Input provenance | `research/ASSET_MANIFEST.json` lists the supplied inputs, and `research/SOURCE_PROVENANCE.json` records their origins. |
+
+The EDI calculations use **62 kg** to convert daily intakes to ng/kg body weight/day. The US PBK model uses **70 kg** for physiology and takes intake in ng/person/day.
+
+### Quick start
+
+The portable pipeline runs the analysis from a browser dashboard and saves each run in a local folder. On Windows x64, Miniforge creates a dedicated environment with Python 3.9.19 and R 4.5.2. Setup needs internet access to download dependencies. The illustrated README in the archive explains the controls and shows example results.
+
+1. Install Miniforge for Windows x64.
+2. Download and extract the pipeline ZIP into a writable folder.
+3. Run `Setup Environment.cmd` and wait for the package checks to finish.
+4. Run `Start Pipeline.cmd`. In the dashboard, run **Environment & data**, then select a workflow. For an initial check, select one repeat and one worker before starting the full analysis.
+5. Save the tables and figures from **Results** locally, then run `Stop Pipeline.cmd` when finished.
+
+## Figure reproduction
+
+The [main figure folder](figures/main%20figs%201-6/) includes six plotting scripts. The [Supplementary Information figure folder](figures/SI%20figs/) contains 30 figures, including 26 with Python plotting scripts and four supplied as artwork. The [figure guide](figures/README.md) explains how to render individual figures and identifies the artwork and data sources.
+
+Both figure collections use a shared **64-bit CPython 3.12** environment. The setup script creates `.venv-figures` and installs the pinned plotting packages. Open a terminal in `figures` and use the commands below.
+
+| Task | Windows PowerShell | macOS or Linux |
+| --- | --- | --- |
+| Set up the figure environment | `py -3.12 setup_figure_environment.py` | `python3.12 setup_figure_environment.py` |
+| Render the six main figures | `py -3.12 setup_figure_environment.py --plot main` | `python3.12 setup_figure_environment.py --plot main` |
+| Render the 26 scripted SI figures | `py -3.12 setup_figure_environment.py --plot si` | `python3.12 setup_figure_environment.py --plot si` |
+| Render both sets of scripts | `py -3.12 setup_figure_environment.py --plot all` | `python3.12 setup_figure_environment.py --plot all` |
+
+## Data 1 to 7
+
+| Dataset | Contents |
+| --- | --- |
+| [Data 1. Correlations between health outcomes and covariates](Data%201_correlation%20between%20outcomes%20and%20coveriates.xlsx) | NHANES associations between candidate covariates and health outcomes, with p-values and corresponding correlation coefficients or t statistics. |
+| [Data 2. Correlations between health outcomes and instruments](Data%202_correlation%20between%20outcomes%20and%20instruments.xlsx) | NHANES associations between candidate instrumental variables and health outcomes, with p-values and corresponding correlation coefficients or t statistics. |
+| [Data 3. Global PFAS serum concentrations](Data%203_Global%20PFAS%20serum%20concentrations.xlsx) | Measured serum concentrations from studies and national surveys, with modeled country geometric means across seven scenarios. |
+| [Data 4. Food greenhouse gas emission intensity](Data%204_Food%20greenhouse%20gas%20emission%20intensity.xlsx) | Greenhouse gas emission factors for aquatic and terrestrial foods, in kg CO₂e per kg of live-weight food. |
+| [Data 5. Modeled health outcomes in 2020 and 2050](https://github.com/HIAS-RCEES-FuLab/Support-Blue-Transformation-Dilemma-in-Dietary-PFAS-exposure/releases/tag/data_5) | Workbook and archived double machine learning results, including regional and income-group summaries. |
+| [Data 6. Reference list](Data%206_Reference%20list.xlsx) | Reference records with titles, journals, DOIs, and article or report URLs where available. |
+| [Data 7. International food trade source-share matrices](Data%207_International%20food%20trade%20source-share%20matrices.xlsx) | Four 47 × 47 matrices for aquatic and terrestrial foods under Trade and Metatrade. Each matrix gives the share of a consuming country’s modeled supply from each supplier. |
