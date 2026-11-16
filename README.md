@@ -32,6 +32,10 @@ The portable pipeline runs the analysis from a browser dashboard and saves each 
 4. Run `Start Pipeline.cmd`. In the dashboard, run **Environment & data**, then select a workflow. For an initial check, select one repeat and one worker before starting the full analysis.
 5. Save the tables and figures from **Results** locally, then run `Stop Pipeline.cmd` when finished.
 
+![BlueFood dashboard with eight task cards, the 2020 world EDI and HI charts, and red labels for controls, results, and progress.](pipeline/dashboard-2020-world-hi.png)
+
+The saved 2020 example shows a population-weighted world mean HI of **1.53 without trade** and **1.50 with trade**.
+
 ## Figure reproduction
 
 The [main figure folder](figures/main%20figs%201-6/) includes six plotting scripts. The [Supplementary Information figure folder](figures/SI%20figs/) contains 30 figures, including 26 with Python plotting scripts and four supplied as artwork. The [figure guide](figures/README.md) explains how to render individual figures and identifies the artwork and data sources.
