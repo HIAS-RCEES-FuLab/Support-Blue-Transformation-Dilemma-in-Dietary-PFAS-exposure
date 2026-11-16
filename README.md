@@ -22,8 +22,6 @@ The paths below are relative to the extracted pipeline folder. `README.docx` in 
 | Serum and health outcomes, 2020 and 2050 | `research/serum_comparison.py` compares measured and modeled serum concentrations. `research/health.py` applies the health models using the NHANES inputs and model definitions in `research/assets/health/`. |
 | Input provenance | `research/ASSET_MANIFEST.json` lists the supplied inputs, and `research/SOURCE_PROVENANCE.json` records their origins. |
 
-The EDI calculations use **62 kg** to convert daily intakes to ng/kg body weight/day. The US PBK model uses **70 kg** for physiology and takes intake in ng/person/day.
-
 ### Quick start
 
 The portable pipeline runs the analysis from a browser dashboard and saves each run in a local folder. On Windows x64, Miniforge creates a dedicated environment with Python 3.9.19 and R 4.5.2. Setup needs internet access to download dependencies. The illustrated README in the archive explains the controls and shows example results.
