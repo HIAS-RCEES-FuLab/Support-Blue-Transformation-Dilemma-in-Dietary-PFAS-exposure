@@ -6,7 +6,7 @@ This repository contains the portable analysis pipeline, plotting scripts and in
 
 ## Portable Pipeline
 
-[Download the pipeline ZIP](pipeline/BlueFood%20Portable%20Pipeline.zip?raw=1) · [Data and key scripts README](pipeline/README.md)
+[Download the pipeline ZIP](pipeline/BlueFood%20Portable%20Pipeline.zip?raw=1) · [Data and key scripts README](pipeline/README.md) · [Browse the R source](pipeline/source/)
 
 ### Pipeline Data and Key Scripts
 
@@ -32,9 +32,9 @@ The portable pipeline runs the analysis from a browser dashboard and saves each 
 4. Run `Start Pipeline.cmd`. In the dashboard, run **Environment & data**, then select a workflow. For an initial check, select one repeat and one worker before starting the full analysis.
 5. Save the tables and figures from **Results** locally, then run `Stop Pipeline.cmd` when finished.
 
-![BlueFood dashboard with eight task cards, the 2020 world EDI and HI charts, and red labels for controls, results, and progress.](pipeline/dashboard-2020-world-hi.png)
+![BlueFood dashboard with eight task cards, the 2020 Trade hazard index world map, and red labels for controls, results, and progress.](pipeline/dashboard-2020-world-hi.png)
 
-The saved 2020 example shows a population-weighted world mean HI of **1.53 without trade** and **1.50 with trade**.
+The saved **2020 Trade** map shows the mean hazard index (HI) by country. Gray indicates unavailable results.
 
 ## Figure reproduction
 
