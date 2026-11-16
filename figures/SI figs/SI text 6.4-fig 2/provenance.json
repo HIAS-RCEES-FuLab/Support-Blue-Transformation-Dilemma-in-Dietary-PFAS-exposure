@@ -1,0 +1,38 @@
+{
+  "validation": {
+    "permutation": {
+      "original": {
+        "n": 8749,
+        "mean": 0.03707171599728077,
+        "sd": 0.04550541497717819
+      },
+      "T": {
+        "n": 8749,
+        "mean": -0.00420718950226667,
+        "sd": 0.023248870124035162
+      },
+      "X": {
+        "n": 8749,
+        "mean": 0.057179771263205836,
+        "sd": 0.05564407923889545
+      }
+    },
+    "robustness": {
+      "T": {
+        "sd_across_ten_means": 0.011567492052954827,
+        "pearson_r": 0.18333463347937604,
+        "pearson_p_archived": 0.6121655622387249
+      },
+      "X": {
+        "sd_across_ten_means": 0.0025618568159346982,
+        "pearson_r": 0.45099815567051366,
+        "pearson_p_archived": 0.1908037229611206
+      }
+    }
+  },
+  "source_workbooks": [
+    "robust test\\robust T and X stats.xlsx",
+    "causal test\\causal_result_MCQ160A.xlsx",
+    "robust test\\robust_MCQ160A.xlsx"
+  ]
+}

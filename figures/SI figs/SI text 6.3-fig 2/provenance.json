@@ -1,0 +1,15 @@
+{
+  "training_loss": {
+    "BPQ020": {
+      "epochs": 2200,
+      "first_loss": 0.8215,
+      "last_loss": 0.6849
+    },
+    "MCQ160A": {
+      "epochs": 300,
+      "first_loss": 0.5567,
+      "last_loss": 0.4582
+    }
+  },
+  "workbook": "Parameters of DMLs.xlsx, Sheet4"
+}

@@ -1,0 +1,49 @@
+﻿Income_group,Scenario,Measure,Seafood_group,Value,Unit
+Middle income,2020,consumption,Other Seafood,7.3,kg/capita/year
+Middle income,2020,consumption,Marine Fish,4.8,kg/capita/year
+Middle income,2020,consumption,Freshwater Fish,11.5,kg/capita/year
+Middle income,LR,consumption,Other Seafood,7.0,kg/capita/year
+Middle income,LR,consumption,Marine Fish,4.6,kg/capita/year
+Middle income,LR,consumption,Freshwater Fish,11.2,kg/capita/year
+Middle income,BAU,consumption,Other Seafood,13.6,kg/capita/year
+Middle income,BAU,consumption,Marine Fish,9.3,kg/capita/year
+Middle income,BAU,consumption,Freshwater Fish,23.3,kg/capita/year
+Middle income,HR,consumption,Other Seafood,15.3,kg/capita/year
+Middle income,HR,consumption,Marine Fish,10.5,kg/capita/year
+Middle income,HR,consumption,Freshwater Fish,25.9,kg/capita/year
+High income,2020,consumption,Other Seafood,5.7,kg/capita/year
+High income,2020,consumption,Marine Fish,14.1,kg/capita/year
+High income,2020,consumption,Freshwater Fish,4.0,kg/capita/year
+High income,LR,consumption,Other Seafood,6.9,kg/capita/year
+High income,LR,consumption,Marine Fish,12.6,kg/capita/year
+High income,LR,consumption,Freshwater Fish,4.8,kg/capita/year
+High income,BAU,consumption,Other Seafood,7.6,kg/capita/year
+High income,BAU,consumption,Marine Fish,18.6,kg/capita/year
+High income,BAU,consumption,Freshwater Fish,5.3,kg/capita/year
+High income,HR,consumption,Other Seafood,9.6,kg/capita/year
+High income,HR,consumption,Marine Fish,21.2,kg/capita/year
+High income,HR,consumption,Freshwater Fish,6.9,kg/capita/year
+Middle income,2020,exposure,Other Seafood,0.4,ng/kg bw/day
+Middle income,2020,exposure,Marine Fish,0.36,ng/kg bw/day
+Middle income,2020,exposure,Freshwater Fish,1.29,ng/kg bw/day
+Middle income,LR,exposure,Other Seafood,0.4,ng/kg bw/day
+Middle income,LR,exposure,Marine Fish,0.33,ng/kg bw/day
+Middle income,LR,exposure,Freshwater Fish,1.0,ng/kg bw/day
+Middle income,BAU,exposure,Other Seafood,0.09,ng/kg bw/day
+Middle income,BAU,exposure,Marine Fish,0.66,ng/kg bw/day
+Middle income,BAU,exposure,Freshwater Fish,2.32,ng/kg bw/day
+Middle income,HR,exposure,Other Seafood,0.42,ng/kg bw/day
+Middle income,HR,exposure,Marine Fish,0.79,ng/kg bw/day
+Middle income,HR,exposure,Freshwater Fish,2.68,ng/kg bw/day
+High income,2020,exposure,Other Seafood,0.33,ng/kg bw/day
+High income,2020,exposure,Marine Fish,1.15,ng/kg bw/day
+High income,2020,exposure,Freshwater Fish,1.32,ng/kg bw/day
+High income,LR,exposure,Other Seafood,0.31,ng/kg bw/day
+High income,LR,exposure,Marine Fish,1.0,ng/kg bw/day
+High income,LR,exposure,Freshwater Fish,0.93,ng/kg bw/day
+High income,BAU,exposure,Other Seafood,0.33,ng/kg bw/day
+High income,BAU,exposure,Marine Fish,1.45,ng/kg bw/day
+High income,BAU,exposure,Freshwater Fish,1.16,ng/kg bw/day
+High income,HR,exposure,Other Seafood,0.71,ng/kg bw/day
+High income,HR,exposure,Marine Fish,1.6,ng/kg bw/day
+High income,HR,exposure,Freshwater Fish,1.35,ng/kg bw/day

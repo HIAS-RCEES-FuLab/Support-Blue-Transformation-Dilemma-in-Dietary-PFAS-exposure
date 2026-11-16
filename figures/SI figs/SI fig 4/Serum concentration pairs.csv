@@ -1,0 +1,42 @@
+﻿analyte,country,cohort_group,measured_statistic,measured_ng_ml,estimated_ng_ml
+Sum4,Canada,Whole population,Geometric mean,5.4,10.848274273296472
+Sum4,China,Whole population,nan,21.26642158,19.619514453828486
+Sum4,France,Mothers/female only,median,6.17,12.545392938233537
+Sum4,Italy,Adults,sum of Median,10.549999999999999,10.845260088244238
+Sum4,Japan,Adults,median,7.82,16.297635542963643
+Sum4,Korea,Adults,median,28.6,19.822850007618076
+Sum4,Netherlands,Adults,median,9.42,21.107327338336432
+Sum4,Norway,Adults,mean,5.43,14.851788055512367
+Sum4,South Africa,Mothers/female only,nan,3.4,3.70567271955883
+Sum4,Sweden,Mothers/female only,median,6.912442396,9.357460435089186
+Sum4,United States,Whole population,Geometric mean,7.161,9.855503289262986
+PFOS,Argentina,Mothers/female only,median,0.74,0.5673903026329347
+PFOS,Australia,Adults,average of geneder,3.6999999999999997,1.212262564271727
+PFOS,Canada,Adults,Geometric mean,2.9,5.200214875813554
+PFOS,China,Whole population,mean,9.061038961,3.807269916392335
+PFOS,Czechia,Adults,Median,2.43,2.837968623738337
+PFOS,Denmark,Adults,Median,5.9,3.150399018396379
+PFOS,France,Mothers/female only,median,3.95,4.744071895729699
+PFOS,Italy,Adults,Median,5.84,4.292987029892981
+PFOS,Japan,Adults,median,3.5,2.977778396503866
+PFOS,Korea,Adults,median,15.4,2.85102248852772
+PFOS,Netherlands,Adults,median,6.3,10.20772105281146
+PFOS,Norway,Adults,mean,3.34,6.229204870854303
+PFOS,South Africa,Mothers/female only,nan,1.6,0.5620159650869082
+PFOS,Switzerland,Adults,Geometric mean,6.6,5.064746127304265
+PFOS,United States,Whole population,Geometric mean,4.25,4.500399893578392
+PFOA,Argentina,Mothers/female only,median,0.11,1.627937305645396
+PFOA,Australia,Adults,average of geneder,1.25,1.684578887205081
+PFOA,Canada,Adults,Geometric mean,1.2,2.334689623169417
+PFOA,China,Whole population,nan,8.013786214,12.25901453932152
+PFOA,Czechia,Adults,Median,0.756,2.926424739658122
+PFOA,Denmark,Adults,Median,1.2,3.386643750079315
+PFOA,France,Mothers/female only,median,1.02,4.621140097029993
+PFOA,Italy,Adults,Median,1.64,3.677919027376537
+PFOA,Japan,Adults,median,2.1,10.20968466112797
+PFOA,Korea,Adults,median,6.7,13.65976260453001
+PFOA,Netherlands,Adults,median,1.8,6.772670144966331
+PFOA,Norway,Adults,mean,0.84,4.103232189682435
+PFOA,South Africa,Mothers/female only,nan,1.3,1.967909097373266
+PFOA,Switzerland,Adults,Geometric mean,1.3,3.605203798583406
+PFOA,United States,Whole population,Geometric mean,1.42,2.151402285019334

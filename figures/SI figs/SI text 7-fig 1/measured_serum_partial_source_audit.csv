@@ -1,0 +1,55 @@
+﻿analytes,region,country,cohort,years,matrix,metric,reconstructed_ng_ml,workbook_rows,construction
+Σ4PFAS,East Asia,China,"CNHBM (national, adults)",2017-2018,Serum,Geometric mean,9.47,48,Listed Σ4 value
+Σ4PFAS,East Asia,China,Zhejiang-jiashan Birth Cohort,2016-2018,Maternal Serum,mean,31.08,54,Listed Σ4 value
+Σ4PFAS,East Asia,China,Zhejiang-jiashan Birth Cohort,2016-2018,Maternal Serum,median,23.3,59,Listed Σ4 value
+Σ4PFAS,East Asia,Korea (Republic of),"KoNEHS Cycle 4 (national, adults)",2018-2020,Serum,median,28.6,64,Listed Σ4 value
+Σ4PFAS,East Asia,Japan,National(adults),2020-2024,Serum,median,7.82,74,Listed Σ4 value
+Σ4PFAS,East Asia,China,"Wuxi Birth Cohort project at Wuxi People's Hospital, Jiangsu, China",2019-2021,maternal Serum,median,4.12,130,Listed Σ4 value
+Σ4PFAS,East Asia,China,Peking University Third Hospital,2018,maternal Serum,mean,6.54,135,Listed Σ4 value
+Σ4PFAS,East Asia,China,Peking University Third Hospital,2020,maternal Serum,median,4.53,140,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2015,total population,unspecified,30.36044873,145,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2016,total population,unspecified,9.707699543,150,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2017,total population,unspecified,16.93082679,155,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2018,total population,unspecified,31.15309079,160,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2019,total population,unspecified,19.4970547,165,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2020,total population,unspecified,21.26642158,170,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2021,total population,unspecified,19.98622455,175,Listed Σ4 value
+Σ4PFAS,East Asia,China,a review for national serum level,2022,total population,unspecified,11.43704203,180,Listed Σ4 value
+Σ4PFAS,North America,United States,"NHANES (national, total population)",2017-2018,Serum,Geometric mean,7.161,11,Listed Σ4 value
+Σ4PFAS,North America,Canada,"CHMS (national, adults)",2018-2019,Plasma,Geometric mean,5.37,"12,13,14,15",Sum of component summaries
+Σ4PFAS,Oceania,Australia,National pooled serum (states/territories),2020-2021,Serum(31-45 years old),Male weighted average,8.375,79,Listed Σ4 value
+Σ4PFAS,Oceania,Australia,National pooled serum (states/territories),2020-2021,Serum(31-45 years old),Female weighted average,5.31,"80,81,82,83",Sum of component summaries
+Σ4PFAS,Oceania,New Zealand,National adult POPs serum survey,2011-2013,Serum,Geometric mean,7.46,89,Listed Σ4 value
+Σ4PFAS,Oceania,Papua New Guinea,Pooled serum (pathology leftovers; not probability sample),2019-2020,Serum(31-45 years old),Male average,5.5,"90,91,92,93",Sum of component summaries
+Σ4PFAS,Oceania,Papua New Guinea,Pooled serum (pathology leftovers; not probability sample),2019-2020,Serum(31-45 years old),Female average,3.5,"94,95,96,97",Sum of component summaries
+Σ4PFAS,Europe,Swden,,1996-2022,Maternal Serum,median,17.39,"101,102,103,104",Sum of component summaries
+Σ4PFAS,Europe,France,SEPAGES,2014-2017,Maternal Serum,median,6.17,111,Listed Σ4 value
+Σ4PFAS,Europe,Norway,H2020,2020,Serum,mean,5.43,"112,113,114,115",Sum of component summaries
+Σ4PFAS,Europe,Netherland,National,2016-2017,total population,median,8.18,186,Listed Σ4 value
+Σ4PFAS,Europe,Netherland,National,2016-2017,adults,median,9.42,191,Listed Σ4 value
+Σ4PFAS,Europe,Netherland,National,2016-2017,female adults,median,5.89,"192,193,194,195",Sum of component summaries
+Σ2PFAS,East Asia,China,"CNHBM (national, adults)",2017-2018,Serum,Geometric mean,8.11,"43,44",Sum of component summaries
+Σ2PFAS,East Asia,China,Zhejiang-jiashan Birth Cohort,2016-2018,Maternal Serum,mean,22.75,"50,51",Sum of component summaries
+Σ2PFAS,East Asia,China,Zhejiang-jiashan Birth Cohort,2016-2018,Maternal Serum,median,17.23,"55,56",Sum of component summaries
+Σ2PFAS,East Asia,Korea (Republic of),"KoNEHS Cycle 4 (national, adults)",2018-2020,Serum,median,22.1,"60,61",Sum of component summaries
+Σ2PFAS,East Asia,Japan,National(adults),2020-2024,Serum,median,5.6,"70,71",Sum of component summaries
+Σ2PFAS,East Asia,China,"Wuxi Birth Cohort project at Wuxi People's Hospital, Jiangsu, China",2019-2021,maternal Serum,median,2.12,"126,129",Sum of component summaries
+Σ2PFAS,East Asia,China,Peking University Third Hospital,2018,maternal Serum,mean / median,5.640000000000001,"131,134",Sum of component summaries
+Σ2PFAS,East Asia,China,Peking University Third Hospital,2020,maternal Serum,median,3.84,"136,139",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2015,total population,unspecified,28.437339113,"141,142",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2016,total population,unspecified,8.350266771,"146,147",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2017,total population,unspecified,13.183751081,"151,152",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2018,total population,unspecified,29.599841145,"156,157",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2019,total population,unspecified,14.128727008,"161,162",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2020,total population,unspecified,17.074825175,"166,167",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2021,total population,unspecified,16.040671801000002,"171,172",Sum of component summaries
+Σ2PFAS,East Asia,China,a review for national serum level,2022,total population,unspecified,9.432446121,"176,177",Sum of component summaries
+Σ2PFAS,North America,United States,"NHANES (national, total population)",2017-2018,Serum,Geometric mean,5.67,"7,8",Sum of component summaries
+Σ2PFAS,North America,Canada,"CHMS (national, adults)",2018-2019,Plasma,Geometric mean,4.1,"12,13",Sum of component summaries
+Σ2PFAS,Oceania,Australia,National pooled serum (states/territories),2020-2021,Serum(31-45 years old),Male weighted average,6.1,"75,76",Sum of component summaries
+Σ2PFAS,Oceania,Australia,National pooled serum (states/territories),2020-2021,Serum(31-45 years old),Female weighted average,3.8,"80,81",Sum of component summaries
+Σ2PFAS,Oceania,New Zealand,National adult POPs serum survey,2011-2013,Serum,Geometric mean,5.8,"85,86",Sum of component summaries
+Σ2PFAS,Oceania,Papua New Guinea,Pooled serum (pathology leftovers; not probability sample),2019-2020,Serum(31-45 years old),Male average,3.7,"90,91",Sum of component summaries
+Σ2PFAS,Oceania,Papua New Guinea,Pooled serum (pathology leftovers; not probability sample),2019-2020,Serum(31-45 years old),Female average,2.7,"94,95",Sum of component summaries
+Σ2PFAS,Africa,South Africa,,<2009,maternal Serum,unspecified,2.9000000000000004,"116,117",Sum of component summaries
+Σ2PFAS,South America,Argentina,EMASAR postpartum women (regional cohort),2011-2012,"Serum, postpartum female",median,0.85,"98,99",Sum of component summaries

@@ -1,0 +1,239 @@
+{
+  "source_type": "original PowerPoint raster panels",
+  "source_file": "G:\\projects\\BLUE FOOD\\causal_dose response\\flowwork.pptx",
+  "source_slide": 2,
+  "current_si_media": "word/media/image53.png",
+  "visible_panel_count": 15,
+  "caption_panel_count": 16,
+  "detail": "Reassembled original plot frames, scatter markers and tick labels. The standalone source images are retained unchanged in the ZIP. Redundant titles above the plot frames are omitted in the assembled figure. The current SI order and letter labels, including repeated J/K/L, are retained.",
+  "diq010_caption_discrepancy": "Current panel D (DIQ010*) matches archived image2.png, whose internal title is 'DIQ010 & board_line'. Current panel E (DIQ010**) matches image6.png, titled 'DIQ010 confirm'. The SI caption describes these definitions in the opposite order. The redraw preserves the existing visual panel order and codes.",
+  "plotting_source": "G:\\projects\\BLUE FOOD\\causal_dose response\\DMLOrthoForest_test(c-classification-6 outomces-copy).py",
+  "plotting_source_lines": "309-339",
+  "panels": [
+    {
+      "original_panel_label": "A",
+      "outcome": "MCQ080",
+      "archive_member": "panel_01.png",
+      "powerpoint_member": "ppt/media/image5.png",
+      "source_sha256": "2269dc2bde0f015e1b6686527f5ea4d509c8d179247c28257fd993c862fbec27",
+      "scatter_similarity": 0.9365137815475464,
+      "second_best_similarity": 0.08515290170907974,
+      "reference_bbox": [
+        0,
+        23,
+        446,
+        300
+      ]
+    },
+    {
+      "original_panel_label": "B",
+      "outcome": "MCQ160A",
+      "archive_member": "panel_02.png",
+      "powerpoint_member": "ppt/media/image3.png",
+      "source_sha256": "e72d9739460e47e0550deb02b0ff60ec0e62de5d8e8bf1ae8bcceef9f475f65e",
+      "scatter_similarity": 0.9219186305999756,
+      "second_best_similarity": 0.09083697199821472,
+      "reference_bbox": [
+        446,
+        23,
+        873,
+        300
+      ]
+    },
+    {
+      "original_panel_label": "C",
+      "outcome": "BPQ020",
+      "archive_member": "panel_03.png",
+      "powerpoint_member": "ppt/media/image4.png",
+      "source_sha256": "f694338ba2a4b364222dc21fb3c7b5cfbc0ff84934c73a28c6e0287d4a5b57be",
+      "scatter_similarity": 0.9276347160339355,
+      "second_best_similarity": 0.06271892786026001,
+      "reference_bbox": [
+        873,
+        23,
+        1295,
+        300
+      ]
+    },
+    {
+      "original_panel_label": "D",
+      "outcome": "DIQ010*",
+      "archive_member": "panel_04.png",
+      "powerpoint_member": "ppt/media/image2.png",
+      "source_sha256": "f5cd877030449a25951bbb29d02212f1cefb4de0e2abd0d42603aa8135105ae3",
+      "scatter_similarity": 0.9350816607475281,
+      "second_best_similarity": 0.2712336480617523,
+      "reference_bbox": [
+        0,
+        320,
+        446,
+        603
+      ]
+    },
+    {
+      "original_panel_label": "E",
+      "outcome": "DIQ010**",
+      "archive_member": "panel_05.png",
+      "powerpoint_member": "ppt/media/image6.png",
+      "source_sha256": "c5f14b02556de8c8f8e9e2a529ef57020f49934108eee16c10009671adcdb7ea",
+      "scatter_similarity": 0.9240772128105164,
+      "second_best_similarity": 0.26314598321914673,
+      "reference_bbox": [
+        446,
+        320,
+        873,
+        603
+      ]
+    },
+    {
+      "original_panel_label": "F",
+      "outcome": "BPXPLUS",
+      "archive_member": "panel_06.png",
+      "powerpoint_member": "ppt/media/image1.png",
+      "source_sha256": "bab5e17197a4685faba6d6c9dbec7cc6950c200f5067759d7c8a82b074a80b21",
+      "scatter_similarity": 0.9218012690544128,
+      "second_best_similarity": 0.10339134931564331,
+      "reference_bbox": [
+        873,
+        320,
+        1295,
+        603
+      ]
+    },
+    {
+      "original_panel_label": "G",
+      "outcome": "PFQ057",
+      "archive_member": "panel_07.png",
+      "powerpoint_member": "ppt/media/image8.png",
+      "source_sha256": "6b5023c1cb78c55fc391ccefc0da4a7a239c3c691735357c23635f48756ae016",
+      "scatter_similarity": 0.9238943457603455,
+      "second_best_similarity": 0.06975240260362625,
+      "reference_bbox": [
+        0,
+        618,
+        446,
+        886
+      ]
+    },
+    {
+      "original_panel_label": "H",
+      "outcome": "MCQ160E",
+      "archive_member": "panel_08.png",
+      "powerpoint_member": "ppt/media/image9.png",
+      "source_sha256": "6dfa131a26984427acfa9ebc3ba72f71110f8160ee058707690d31dab4ff35fd",
+      "scatter_similarity": 0.9309540390968323,
+      "second_best_similarity": 0.6546734571456909,
+      "reference_bbox": [
+        446,
+        618,
+        873,
+        886
+      ]
+    },
+    {
+      "original_panel_label": "I",
+      "outcome": "MCQ160F",
+      "archive_member": "panel_09.png",
+      "powerpoint_member": "ppt/media/image7.png",
+      "source_sha256": "875f6d3ca0e29c378e41fadbba2578f22183032e65b590628e667b7f74e278e3",
+      "scatter_similarity": 0.932955265045166,
+      "second_best_similarity": 0.2829889953136444,
+      "reference_bbox": [
+        873,
+        618,
+        1295,
+        886
+      ]
+    },
+    {
+      "original_panel_label": "J",
+      "outcome": "KIQ022",
+      "archive_member": "panel_10.png",
+      "powerpoint_member": "ppt/media/image10.png",
+      "source_sha256": "1541caa7943a653c98a22b32628ecdd4110050dbddbc5654384bad07244bab20",
+      "scatter_similarity": 0.9641067385673523,
+      "second_best_similarity": 0.8960824012756348,
+      "reference_bbox": [
+        0,
+        899,
+        446,
+        1177
+      ]
+    },
+    {
+      "original_panel_label": "K",
+      "outcome": "MCQ160C",
+      "archive_member": "panel_11.png",
+      "powerpoint_member": "ppt/media/image12.png",
+      "source_sha256": "490068aaef28ad646fbfd4c1107506d2caa8d42c54a65fe4a99b37b3c19fcca2",
+      "scatter_similarity": 0.9509687423706055,
+      "second_best_similarity": 0.6270685791969299,
+      "reference_bbox": [
+        446,
+        899,
+        873,
+        1177
+      ]
+    },
+    {
+      "original_panel_label": "L",
+      "outcome": "MCQ220",
+      "archive_member": "panel_12.png",
+      "powerpoint_member": "ppt/media/image11.png",
+      "source_sha256": "5e0a52cf3814c953f1e679ba80356f363a6b4ddd3d6658dbd9dda79086f03285",
+      "scatter_similarity": 0.9250245094299316,
+      "second_best_similarity": 0.48499414324760437,
+      "reference_bbox": [
+        873,
+        899,
+        1295,
+        1177
+      ]
+    },
+    {
+      "original_panel_label": "J",
+      "outcome": "MCQ010",
+      "archive_member": "panel_13.png",
+      "powerpoint_member": "ppt/media/image13.png",
+      "source_sha256": "b29ca5f92eb096789828857d2ce184f48e471652c9881f23e8d23fb0bc03a9ac",
+      "scatter_similarity": 0.9070895910263062,
+      "second_best_similarity": 0.2579570710659027,
+      "reference_bbox": [
+        0,
+        1195,
+        446,
+        1473
+      ]
+    },
+    {
+      "original_panel_label": "K",
+      "outcome": "HUQ090",
+      "archive_member": "panel_14.png",
+      "powerpoint_member": "ppt/media/image15.png",
+      "source_sha256": "a8a82976757b78a4c01fcf8a44f34ff800e6c7573a939781dd77af02c41bd9ca",
+      "scatter_similarity": 0.9441882371902466,
+      "second_best_similarity": 0.4535882771015167,
+      "reference_bbox": [
+        446,
+        1195,
+        873,
+        1473
+      ]
+    },
+    {
+      "original_panel_label": "L",
+      "outcome": "MCQ160D",
+      "archive_member": "panel_15.png",
+      "powerpoint_member": "ppt/media/image14.png",
+      "source_sha256": "2364232d00b10795592df07b51f7b7e2ce205d29c56c607dc3c2ac479c4043a0",
+      "scatter_similarity": 0.9279425740242004,
+      "second_best_similarity": 0.8547243475914001,
+      "reference_bbox": [
+        873,
+        1195,
+        1295,
+        1473
+      ]
+    }
+  ]
+}

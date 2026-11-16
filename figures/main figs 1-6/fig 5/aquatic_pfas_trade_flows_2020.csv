@@ -1,0 +1,107 @@
+﻿Exporter,Importer,Importer_region,Amount_kg_year,Exporter_order,Importer_order
+United States,China,Asia,15.881116825512843,1,1
+United States,Japan,Asia,3.5487657484093083,1,2
+United States,Korea,Asia,1.8320312547301,1,3
+United States,Asia,Asia,2.595588662710427,1,4
+United States,France,Europe,0.44127854624546475,1,5
+United States,Europe,Europe,1.3247703775957802,1,6
+United States,North America,North America,2.5140028154221437,1,8
+United States,Latin America,Latin America,3.3883025961834354,1,9
+United States,Oceania,Oceania,0.443330826192892,1,10
+United States,Africa,Africa,0.0755061858968012,1,11
+Canada,China,Asia,15.880688021581463,2,1
+Canada,Japan,Asia,0.9078973283476144,2,2
+Canada,Korea,Asia,0.4485270176328548,2,3
+Canada,Asia,Asia,0.2553319384535371,2,4
+Canada,France,Europe,0.18542697596419702,2,5
+Canada,Europe,Europe,0.5949016122339054,2,6
+Canada,United States,North America,9.693668781123256,2,7
+Canada,Latin America,Latin America,0.15146684247513867,2,9
+Canada,Oceania,Oceania,0.08114814974767254,2,10
+Canada,Africa,Africa,0.05843542008649835,2,11
+China,Japan,Asia,4.920646187506791,3,2
+China,Korea,Asia,2.7195578194728984,3,3
+China,Asia,Asia,0.9737711701243985,3,4
+China,France,Europe,0.20790546737213286,3,5
+China,Europe,Europe,1.8820742767074221,3,6
+China,United States,North America,1.9906644557457025,3,7
+China,North America,North America,0.25947538726622227,3,8
+China,Latin America,Latin America,1.104350636379667,3,9
+China,Oceania,Oceania,0.4441150554103032,3,10
+China,Africa,Africa,0.30953099920530525,3,11
+Asia,China,Asia,9.887561678817846,4,1
+Asia,Japan,Asia,1.4971401147734837,4,2
+Asia,Korea,Asia,0.3701074253050978,4,3
+Asia,Asia,Asia,0.25577131477393694,4,4
+Asia,France,Europe,0.1105282459441892,4,5
+Asia,Europe,Europe,0.596673926048971,4,6
+Asia,United States,North America,2.9555055599013866,4,7
+Asia,North America,North America,0.10139668884467036,4,8
+Asia,Latin America,Latin America,0.022970380738043836,4,9
+Asia,Oceania,Oceania,0.1493685212799993,4,10
+Asia,Africa,Africa,0.04849424461574345,4,11
+Norway,China,Asia,2.4777120530040047,5,1
+Norway,Japan,Asia,0.6751869747654656,5,2
+Norway,Korea,Asia,0.575337229068982,5,3
+Norway,Asia,Asia,0.2009090080143062,5,4
+Norway,France,Europe,0.28340279715007644,5,5
+Norway,Europe,Europe,3.1446611806686358,5,6
+Norway,United States,North America,0.6024372052698446,5,7
+Norway,North America,North America,0.04318314754704447,5,8
+Norway,Latin America,Latin America,0.16022612878319553,5,9
+Norway,Oceania,Oceania,0.07994594067444451,5,10
+Norway,Africa,Africa,0.05199234498517056,5,11
+Germany,China,Asia,0.3210124901193412,6,1
+Germany,Japan,Asia,0.03840677178607764,6,2
+Germany,Korea,Asia,0.00797081611435207,6,3
+Germany,Asia,Asia,0.018538826051560348,6,4
+Germany,France,Europe,0.6738140367760423,6,5
+Germany,Europe,Europe,2.037843469501986,6,6
+Germany,United States,North America,0.11739241552447846,6,7
+Germany,North America,North America,0.008359750398632461,6,8
+Germany,Latin America,Latin America,0.04892777439224029,6,9
+Germany,Oceania,Oceania,0.018981283619786543,6,10
+Germany,Africa,Africa,0.024154231702723593,6,11
+Europe,China,Asia,2.530849696504971,7,1
+Europe,Japan,Asia,0.3134767564496957,7,2
+Europe,Korea,Asia,0.22134385976212625,7,3
+Europe,Asia,Asia,0.1363670720554107,7,4
+Europe,France,Europe,2.3080214466417273,7,5
+Europe,Europe,Europe,10.133756993551653,7,6
+Europe,United States,North America,0.5477114720786167,7,7
+Europe,North America,North America,0.07362583603083997,7,8
+Europe,Latin America,Latin America,0.17495040514145205,7,9
+Europe,Oceania,Oceania,0.11602640397766306,7,10
+Europe,Africa,Africa,0.020066538381638938,7,11
+Latin America,China,Asia,2.7628442634576262,8,1
+Latin America,Japan,Asia,0.5463727127028075,8,2
+Latin America,Korea,Asia,0.19474080747913336,8,3
+Latin America,Asia,Asia,0.06283305100695084,8,4
+Latin America,France,Europe,0.058892677596615775,8,5
+Latin America,Europe,Europe,0.6808309531266625,8,6
+Latin America,United States,North America,2.3116327967176944,8,7
+Latin America,North America,North America,0.06278036868170832,8,8
+Latin America,Latin America,Latin America,0.3460942864610222,8,9
+Latin America,Oceania,Oceania,0.03104274660731837,8,10
+Latin America,Africa,Africa,0.03389374743471545,8,11
+Africa,China,Asia,0.7389492575353728,9,1
+Africa,Japan,Asia,0.023005368211645234,9,2
+Africa,Korea,Asia,0.03234248822960692,9,3
+Africa,Asia,Asia,0.02892382342377104,9,4
+Africa,France,Europe,0.049840602501878634,9,5
+Africa,Europe,Europe,1.1302085895775076,9,6
+Africa,United States,North America,0.15161069470310115,9,7
+Africa,North America,North America,0.001035666604543878,9,8
+Africa,Latin America,Latin America,0.005029780906460733,9,9
+Africa,Oceania,Oceania,0.20713545677151582,9,10
+Oceania,China,Asia,1.6034076137915623,10,1
+Oceania,Japan,Asia,0.12143879221749969,10,2
+Oceania,Korea,Asia,0.03737516201061094,10,3
+Oceania,Asia,Asia,0.08164088421279049,10,4
+Oceania,France,Europe,0.0018927004224619007,10,5
+Oceania,Europe,Europe,0.009756603666369726,10,6
+Oceania,United States,North America,0.06464170340204728,10,7
+Oceania,North America,North America,0.0028480091576187504,10,8
+Oceania,Latin America,Latin America,0.0038110903314582914,10,9
+Oceania,Oceania,Oceania,0.009655220736781798,10,10
+Oceania,Africa,Africa,0.004174169202149621,10,11

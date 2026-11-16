@@ -1,0 +1,224 @@
+FIGURE 3D INDICATOR NETWORK REFERENCES
+15 November 2026
+
+1. Haemoglobin and total bilirubin
+   Pimstone, N. R., Tenhunen, R., Seitz, P. T., Marver, H. S. & Schmid, R.
+   The enzymatic degradation of hemoglobin to bile pigments by macrophages.
+   J. Exp. Med. 133, 1264–1281 (1971).
+   https://doi.org/10.1084/jem.133.6.1264
+   This biochemical link concerns haem breakdown and bilirubin formation.
+   SI Text 8 also discusses haem breakdown.
+
+2. Serum albumin and total bilirubin
+   Jacobsen, J. & Brodersen, R. Albumin-bilirubin binding mechanism.
+   J. Biol. Chem. 258, 6319–6326 (1983).
+   https://pubmed.ncbi.nlm.nih.gov/6853485/
+   Albumin binds unconjugated bilirubin. The model indicator is total bilirubin,
+   which includes this fraction. The edge describes binding.
+
+3. Serum albumin and total calcium
+   Held, I. R. & Freeman, S. Binding of calcium by human plasma proteins under
+   simulated physiologic conditions. J. Appl. Physiol. 19, 292–296 (1964).
+   https://doi.org/10.1152/jappl.1964.19.2.292
+   Total calcium includes calcium bound to albumin. The edge describes binding.
+
+4. Uric acid and hypertension
+   Sundström, J. et al. Relations of serum uric acid to longitudinal blood
+   pressure tracking and hypertension incidence. Hypertension 45, 28–33 (2005).
+   https://doi.org/10.1161/01.HYP.0000150784.92944.9a
+   The Framingham cohort found a prospective association with new hypertension.
+   The modeled NHANES hypertension variable records a history of diagnosis.
+
+5. Gamma-glutamyltransferase (GGT) and hypertension
+   Lee, D.-H. et al. Gamma-glutamyltransferase is a predictor of incident
+   diabetes and hypertension: the CARDIA Study. Clin. Chem. 49, 1358–1366 (2003).
+   https://doi.org/10.1373/49.8.1358
+   CARDIA reported a prospective association with incident hypertension.
+   The modeled NHANES hypertension variable records a history of diagnosis.
+
+6. Systolic and diastolic blood pressure and hypertension
+   Whelton, P. K. et al. 2017 ACC/AHA guideline for the prevention, detection,
+   evaluation, and management of high blood pressure in adults.
+   Circulation 138, e484–e594 (2018).
+   https://doi.org/10.1161/CIR.0000000000000596
+   National Health and Nutrition Examination Survey blood pressure questionnaire.
+   https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/questionnaires/BPQ_H.pdf
+   These edges show the clinical relationship between BP measurements and
+   hypertension. BPQ020 records whether a health professional ever told the
+   participant that they had hypertension.
+
+7. Total cholesterol and hypertension
+   Sesso, H. D. et al. A prospective study of plasma lipid levels and hypertension
+   in women. Arch. Intern. Med. 165, 2420–2427 (2005).
+   https://pubmed.ncbi.nlm.nih.gov/16287773/
+   Higher total cholesterol was associated with higher incident hypertension
+   in this cohort of women. This edge uses evidence external to SI Text 8.
+
+8. Serum GGT and oxidative stress
+   Lee, D.-H. & Jacobs, D. R. Jr. Is serum gamma glutamyltransferase a marker
+   of oxidative stress? Free Radic. Res. 38, 535–539 (2004).
+   https://doi.org/10.1080/10715760410001694026
+   SI Text 8 ref. 81. Serum GGT is a proposed, nonspecific marker.
+
+9. Disturbed blood flow and oxidative stress
+    De Keulenaer, G. W. et al. Oscillatory and steady laminar shear stress
+    differentially affect human endothelial redox state. Circ. Res. 82,
+    1094–1101 (1998). https://pubmed.ncbi.nlm.nih.gov/9622162/
+    Endothelial cells exposed to oscillatory shear generated superoxide.
+    The context is vascular oxidative stress under disturbed flow.
+
+10. Oxidative stress and arthritis subtypes
+    Seven, A. et al. Lipid, protein, DNA oxidation and antioxidant status in
+    rheumatoid arthritis. Clin. Biochem. 41, 538–543 (2008).
+    https://doi.org/10.1016/j.clinbiochem.2008.01.029
+    Supporting study in osteoarthritis and other arthritic conditions:
+    Protein oxidation, nitration and glycation biomarkers for early-stage
+    diagnosis of osteoarthritis of the knee and typing and progression of
+    arthritic disease. Arthritis Res. Ther. (2016).
+    https://pubmed.ncbi.nlm.nih.gov/27788684/
+    The edge refers to observations in specific arthritic conditions.
+    Arthritis is the broader modelled outcome.
+
+11. Serum urate and gout
+    Campion, E. W., Glynn, R. J. & DeLabry, L. O. Asymptomatic hyperuricemia.
+    Risks and consequences in the Normative Aging Study. Am. J. Med. 82,
+    421–426 (1987). https://pubmed.ncbi.nlm.nih.gov/3826098/
+    Higher serum urate was prospectively associated with incident gout.
+
+12. Serum creatinine and kidney function
+    Levey, A. S. et al. A new equation to estimate glomerular filtration rate.
+    Ann. Intern. Med. 150, 604–612 (2009).
+    https://pubmed.ncbi.nlm.nih.gov/19414839/
+    Serum creatinine is an input to creatinine-based eGFR. A modelled increase
+    in creatinine on its own is insufficient to establish kidney dysfunction.
+
+13. Bicarbonate and kidney function
+    de Brito-Ashurst, I. et al. Bicarbonate supplementation slows progression
+    of CKD and improves nutritional status. J. Am. Soc. Nephrol. 20,
+    2075–2084 (2009). https://doi.org/10.1681/ASN.2008111205
+    SI Text 8 includes bicarbonate as a renal-related marker. This trial concerns
+    metabolic acidosis in established CKD. Bicarbonate is shown as context.
+
+14. Total calcium and kidney function
+    Ketteler, M. et al. Executive summary of the 2017 KDIGO CKD–MBD guideline
+    update. Kidney Int. 92, 26–36 (2017).
+    https://doi.org/10.1016/j.kint.2017.04.006
+    Kidney disease can alter mineral metabolism. Total calcium has other
+    determinants, including protein binding. The edge is clinical context.
+
+15. Serum urate and kidney function
+    Jain, R. B. & Ducatman, A. Dynamics of associations between perfluoroalkyl
+    substances and uric acid across the various stages of glomerular function.
+    Environ. Sci. Pollut. Res. 26, 12425–12434 (2019). https://doi.org/10.1007/s11356-019-04666-5
+    This SI Text 8 citation examines how associations with serum urate vary
+    across kidney function. The edge indicates renal context.
+
+16. PPAR-α and lipid metabolism
+    Kersten, S. et al. Peroxisome proliferator-activated receptor α mediates
+    the adaptive response to fasting. J. Clin. Invest. 103, 1489–1498 (1999).
+    https://pubmed.ncbi.nlm.nih.gov/10359558/
+    Mechanistic work in mice connects PPAR-α with hepatic fatty acid oxidation.
+    The diagram does not assign the modelled cholesterol change to PPAR-α.
+
+17. Total cholesterol and lipid metabolism
+    The total cholesterol node represents a circulating lipid measure. See the
+    clinical interpretations of lipid levels in the NHLBI lipid panel.
+    https://www.nhlbi.nih.gov/health/blood-cholesterol/diagnosis
+    This contextual edge groups the biomarker with the physiological process.
+
+18. PFAS – serum albumin
+    Forsthuber, M. et al. Albumin is the major carrier protein for PFOS,
+    PFOA, PFHxS, PFNA and PFDA in human plasma. Environ. Int. 137, 105324
+    (2020). https://doi.org/10.1016/j.envint.2019.105324
+    SI Text 8 ref. 76. Albumin was the predominant carrier for these five
+    congeners in the human plasma samples examined.
+
+19. PFAS – haemoglobin
+    Trousdale, R. C., Tokmina-Lukaszewska, M., Bothner, B. & Walker, R. A.
+    Perfluorooctanoic acid destabilizes hemoglobin structure at
+    submicromolar concentrations. J. Phys. Chem. B 129, 5217–5223 (2025).
+    https://doi.org/10.1021/acs.jpcb.5c01380
+    SI Text 8 ref. 77. Native mass spectrometry and spectroscopy showed
+    interaction with human haemoglobin in vitro. This edge applies to PFOA.
+
+20. PFAS – gamma-globulins
+    Fischer, F. C. et al. Binding of per- and polyfluoroalkyl substances
+    (PFAS) to serum proteins: implications for toxicokinetics in humans.
+    Environ. Sci. Technol. (2024). https://doi.org/10.1021/acs.est.3c07415
+    SI Text 8 ref. 78. In vitro binding was assessed with purified human
+    gamma-globulins as a representative globulin fraction. Binding varied
+    among the compounds tested.
+
+21. PFAS – PPAR-α
+    Khazaee, M. et al. Perfluoroalkyl acid binding with peroxisome
+    proliferator-activated receptors α, γ, and δ, and fatty acid binding
+    proteins by equilibrium dialysis with a comparison of methods.
+    Toxics 9, 45 (2021). https://doi.org/10.3390/toxics9030045
+    SI Text 8 ref. 74, Table 3. PFHxA and PFNA bound to PPAR-α in equilibrium
+    dialysis experiments. This is receptor binding evidence.
+
+22. PFAS – renal organic anion transporter 3 (OAT3)
+    Ryu, S. et al. Evaluation of 14 PFAS for permeability and organic anion
+    transporter interactions: implications for renal clearance in humans.
+    Chemosphere 361, 142390 (2024).
+    https://doi.org/10.1016/j.chemosphere.2024.142390
+    SI Text 8 ref. 84, Fig. 3B. Cell assays identified several substrates
+    of human OAT3, including PFOA, PFNA and PFHxS from the study's target
+    congeners. The edge represents transport activity. It provides no
+    inference about altered creatinine or serum urate in the model.
+
+23. Gout and other arthritis subtypes
+    Jebakumar, A. J., Udayakumar, P. D., Crowson, C. S. & Matteson, E. L.
+    Occurrence of gout in rheumatoid arthritis: it does happen! A
+    population-based study. Int. J. Clin. Rheumatol. 8, 433–437 (2013).
+    https://doi.org/10.2217/ijr.13.45
+    Kang, S. et al. Risk of incident gout in rheumatoid arthritis from a
+    nationwide cohort study in South Korea. Sci. Rep. 15, 26970 (2025).
+    https://doi.org/10.1038/s41598-025-12696-y
+    Roddy, E., Zhang, W. & Doherty, M. Are joints affected by gout also
+    affected by osteoarthritis? Ann. Rheum. Dis. 66, 1374–1377 (2007).
+    https://doi.org/10.1136/ard.2006.063768
+    The cohort studies concern rheumatoid arthritis, and the joint-level
+    study concerns osteoarthritis. The line denotes clinical literature
+    on specific subtypes. NHANES asks about arthritis (MCQ160A) and gout
+    (MCQ160N) in separate items.
+    https://wwwn.cdc.gov/nchs/data/nhanes/public/2013/questionnaires/MCQ_H.pdf
+
+24. Albumin and the albumin/globulin ratio
+    The study defines C_AGR as serum albumin (LBXSAL) divided by total
+    serum globulin (LBXSGB). This edge represents a calculation input.
+    The gamma-globulins node refers to the narrower protein fraction
+    used in the PFAS binding study.
+    Source: SI Table 4 and the archived project calculation in
+    respond/code avalibility/BlueFood Portable Pipeline/research/health.py.
+    The Fig. 3c source workbook (sheet "to plot") gives 96.69% direction
+    agreement for an increase in the ratio in the 2020 modelled population.
+
+25. Total cholesterol and LDL-cholesterol
+    SI Tables 4 and 5 and the Fig. 3c source workbook report LDL-cholesterol
+    under the study-specific code C_LDL. The archived implementation
+    calculates C_LDL as LBXSCH / 18 minus LBDHDDSI. LBXSCH is serum
+    total cholesterol and LBDHDDSI is the HDL-cholesterol input. The
+    edge represents an input to the reported calculation.
+    Source: respond/code avalibility/BlueFood Portable Pipeline/research/health.py.
+    The standard NHANES LDL-cholesterol variable uses a different calculation
+    that includes triglycerides:
+    https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2015/DataFiles/TRIGLY_I.htm
+
+Suggested caption
+
+d, Relationships among selected health indicators and outcomes, grouped
+by physiological domain. Smaller italic labels mark biological processes,
+molecular targets and contextual diagnoses. Lines from PFAS represent
+binding or transporter activity for the compounds tested. Arthritis denotes
+the modelled NHANES outcome for reporting a prior professional diagnosis
+(MCQ160A). Its connections to oxidative stress and gout draw on published
+studies of specific arthritis subtypes. Hypertension denotes reported
+prior diagnosis (BPQ020). The albumin-to-ratio link identifies a calculation input. The total-to-LDL-cholesterol link represents an input to the study's reported C_LDL calculation. Circle size
+and line weight are layout features
+and do not represent effect sizes.
+
+Design sources: plot figure 1 e 0508.py for node and line styling. The
+domain headings use 20 pt Arial Bold and the dark colours from the
+original figure artwork, including #7E2053 for Immune in the supplied
+reference crop.

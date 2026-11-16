@@ -1,6 +1,8 @@
 # Support-Blue-Transformation-Dilemma-in-Dietary-PFAS-exposure
 data and algorithm employed in research "Blue Transformation Dilemma in Dietary PFAS exposure". Project Includes data analysis for food PFAS concentrations, economic driven food consumption projection, national food GHG emissions, serum vs estimated daily intake, and health outcome prediction (double machine learning).
 
+See the [figure reproduction guide](figures/README.md) for the main and Supplementary Information figure files and plotting environment.
+
 1) "concentration analysis"
 * file contains programs to expore time trend of terrestrial food and aquatic food PFAS concentrations (data in "PFAS in food (1113).csv", "PFAS in food (1113 EA).csv" for Asia, "PFAS in food (1113 NA EU).csv" for North America & Europe), employing Monte Carlo statistics (functions in "MC stats.py").
 * Program "find most significant period.py" finds for the period with lowest p_value in person correlation test for each pair of PFAS-food type.

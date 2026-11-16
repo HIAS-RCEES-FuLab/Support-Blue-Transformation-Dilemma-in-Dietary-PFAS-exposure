@@ -1,0 +1,24 @@
+﻿Order,Indicator_code,Indicator,Percent_increase,Percent_decrease,Majority_direction_agreement_percent,Source_label,Source_row_to_plot
+1,LBDSUASI,Uric acid (µmol/L),99.67725153281205,0.3227484671879458,99.67725153281205,Uric acid (umol/L),2
+2,LBXSAL,Albumin (g/dL),99.38355815906928,0.6164418409307206,99.38355815906928,Albumin (g/dL),3
+3,LBDSCASI,Total calcium (mmol/L),99.06345333128492,0.9365466687150716,99.06345333128492,Total calcium (mmol/L),4
+4,LBXSGTSI,Gamma-glutamyltransferase (U/L),99.0566945928097,0.9433054071903001,99.0566945928097,Gamma glutamyl transferase (U/L),5
+5,BPQ020,Hypertension,98.54073598920996,1.4592640107900392,98.54073598920996,hypertension incidence,6
+6,BPXDI1,Diastolic blood pressure (mm Hg),96.9151471559428,3.0848528440571985,96.9151471559428,Diastolic Blood pressure mm Hg,7
+7,C_AGR,Albumin/globulin ratio,96.69275722611397,3.30724277388603,96.69275722611397,Albumin-Globulin ratio,8
+8,C_LDL,LDL-cholesterol (mmol/L),96.5465589790963,3.453441020903706,96.5465589790963,LDL-Cholesterol (mmol/L),9
+9,LBXSCH,Cholesterol (mg/dL),95.30452231929976,4.695477680700235,95.30452231929976,Cholesterol (mg/dL),10
+10,LBDSTBSI,Total bilirubin (µmol/L),95.23730903446308,4.762690965536918,95.23730903446308,"Bilirubin, total (umol/L)",11
+11,MCQ160A,Arthritis,95.1202407008737,4.879759299126302,95.1202407008737,arthritis incidence,12
+12,BPXSY1,Systolic blood pressure (mm Hg),94.64381198835602,5.356188011643984,94.64381198835602,Systolic Blood pressure mm Hg,13
+13,LBXTC,Total cholesterol (mg/dL),94.54544865054679,5.454551349453215,94.54544865054679,Total Cholesterol( mg/dL),14
+14,LBDSCRSI,Creatinine (µmol/L),94.54240597123321,5.4575940287667875,94.54240597123321,Creatinine (umol/L),15
+15,LBXHGB,Haemoglobin (g/dL),93.6387800950912,6.36121990490879,93.6387800950912,Hemoglobin (g/dL),16
+16,LBXMCHSI,Mean cell haemoglobin (pg),92.1982460200757,7.801753979924301,92.1982460200757,Mean cell hemoglobin (pg),17
+17,BPXML1,Maximum cuff inflation (mm Hg),91.144481377805,8.855518622195,91.144481377805,MIL: maximum inflation levels (mm Hg),18
+18,LBXSCR,Creatinine (mg/dL),91.12520276215426,8.874797237845742,91.12520276215426,Creatinine (mg/dL),19
+19,C_LHR,LDL-to-HDL cholesterol ratio,89.32281430877309,10.677185691226908,89.32281430877309,LDL Cholesterol-HDL Cholesterol ratio,20
+20,LBXMPSI,Mean platelet volume (fL),13.281394963717297,86.7186050362827,86.7186050362827,Mean platelet volume (fL),21
+21,C_BCR,Blood urea nitrogen/creatinine ratio,12.457577069570613,87.54242293042938,87.54242293042938,Blood Urea Nitrogen-Creatinines ratio,22
+22,WHD020,Current self-reported weight (lb),9.903272725821672,90.09672727417832,90.09672727417832,Current self-reported weight (pounds),23
+23,LBXWBCSI,White blood cell count (10³ cells/µL),6.847425095220898,93.1525749047791,93.1525749047791,White blood cell count (1000 cells/uL),24

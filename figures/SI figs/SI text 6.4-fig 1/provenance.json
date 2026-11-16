@@ -1,0 +1,47 @@
+{
+  "validation": {
+    "permutation": {
+      "original": {
+        "n": 8587,
+        "mean": 0.032477677809618764,
+        "sd": 0.054078443399464195
+      },
+      "T": {
+        "n": 8587,
+        "mean": -0.001963807387540412,
+        "sd": 0.017628752018426053
+      },
+      "X": {
+        "n": 8587,
+        "mean": 0.05758680992250584,
+        "sd": 0.07327309376665649
+      }
+    },
+    "robustness": {
+      "T": {
+        "sd_across_ten_means": 0.0016152177456072493,
+        "pearson_r": 0.17478949347058634,
+        "pearson_p_archived": 0.629116788223993
+      },
+      "X": {
+        "sd_across_ten_means": 0.002303814705873155,
+        "pearson_r": -0.5387070326640403,
+        "pearson_p_archived": 0.1081296814033729
+      }
+    }
+  },
+  "source_workbooks": [
+    "robust test\\robust T and X stats.xlsx",
+    "causal test\\causal_result_BPQ020.xlsx",
+    "robust test\\robust_BPQ020.xlsx"
+  ],
+  "earlier_permutation_run": {
+    "BPQ020_T_permutation_old_run": {
+      "mean": -0.00048,
+      "sd": 0.01721
+    },
+    "BPQ020_T_permutation_old_run_source": "CausalForestDML/BPQ020 test note on DMLs.txt",
+    "BPQ020_T_permutation_plot_run": "causal test/causal_result_BPQ020.xlsx",
+    "robustness_test_x_label": "Step. The saved stability_valid code accumulates noise in one added column."
+  }
+}

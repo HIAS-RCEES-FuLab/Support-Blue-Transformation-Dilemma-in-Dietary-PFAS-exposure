@@ -1,0 +1,10 @@
+﻿analytes,source_region,displayed_region,points,reconstructed_median_ng_ml,displayed_median_ng_ml
+Σ4PFAS,East Asia,East Asia,16,18.213940745000002,18.21
+Σ4PFAS,North America,North America,2,6.265499999999999,6.27
+Σ4PFAS,Oceania,Oceania,5,5.5,5.5
+Σ4PFAS,Europe,Europe,6,7.175,7.17
+Σ2PFAS,East Asia,East Asia,16,13.656239044500001,13.66
+Σ2PFAS,North America,North America,2,4.885,4.88
+Σ2PFAS,Oceania,Oceania,5,3.8,3.8
+Σ2PFAS,Africa,South America,1,2.9000000000000004,2.9
+Σ2PFAS,South America,Africa,1,0.85,0.85

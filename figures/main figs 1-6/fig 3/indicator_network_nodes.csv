@@ -1,0 +1,35 @@
+﻿Node,X,Y,Label,Domain,Context
+PFAS,4.55,3.45,PFAS,source,0
+LBXHGB,0.98,1.3,Haemoglobin,hepatic,0
+LBDSTBSI,2.51,0.92,"Total
+bilirubin",hepatic,0
+LBXSAL,4.1,0.97,Albumin,hepatic,0
+C_AGR,2.99,1.83,"Albumin/globulin
+ratio",hepatic,0
+ppara,3.34,3.39,PPAR-α,hepatic,1
+lipids,2.63,2.65,"Lipid
+metabolism",hepatic,1
+LBXSCH,1.04,2.72,"Total
+cholesterol",hepatic,0
+C_LDL,0.83,3.91,"LDL-
+cholesterol",hepatic,0
+LBXSGTSI,2.28,3.78,Serum GGT,hepatic,0
+stress,3.44,4.44,"Oxidative
+stress",hepatic,1
+LBDSCASI,5.63,0.96,"Total
+calcium",renal,0
+LBDSCRSI,8.02,0.96,Creatinine,renal,0
+kidney,6.95,1.89,"Kidney
+function",renal,1
+bicarbonate,8.09,2.27,Bicarbonate,renal,0
+oat3,5.46,2.21,OAT3,renal,1
+LBDSUASI,7.63,3.34,Uric acid,renal,0
+BPQ020,2.63,5.48,Hypertension,cardiovascular,0
+BPXSY1,0.85,5.49,"Systolic
+BP",cardiovascular,0
+BPXDI1,1.7,6.3,Diastolic BP,cardiovascular,0
+flow,4.09,6.03,"Disturbed
+blood flow",cardiovascular,1
+globulins,6.15,3.62,γ-globulins,immune,1
+gout,7.97,4.94,Gout,immune,1
+MCQ160A,6.32,5.99,Arthritis,immune,0

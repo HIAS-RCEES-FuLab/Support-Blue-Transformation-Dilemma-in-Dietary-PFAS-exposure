@@ -1,0 +1,471 @@
+country,food,source,sum7_ng_g_ww,compounds_available
+Argentina,Freshwater Fish,Aquatic food,1.3597414140000004,2
+Argentina,Marine Demersal Fish,Aquatic food,1.3597414140000004,2
+Argentina,Marine Pelagic Fish,Aquatic food,1.3597414140000004,2
+Argentina,Crustaceans,Aquatic food,1.3597414140000004,2
+Argentina,Molluscs,Aquatic food,1.3597414140000004,2
+Argentina,Eggs,Terrestrial food,0.033991077363,2
+Argentina,Poultry Meat,Terrestrial food,0.267508537599,2
+Argentina,Bovine Meat,Terrestrial food,0.2489549457608571,2
+Argentina,Mutton and goat Meat,Terrestrial food,0.2656089607811428,2
+Argentina,Pigmeat,Terrestrial food,0.25586781779514284,2
+Australia,Freshwater Fish,Aquatic food,0.07113003991542473,7
+Australia,Marine Demersal Fish,Aquatic food,0.023686262732392303,7
+Australia,Marine Pelagic Fish,Aquatic food,0.04105811343227674,7
+Australia,Crustaceans,Aquatic food,6.595760491869675,7
+Australia,Molluscs,Aquatic food,2.2309146336651264,7
+Australia,Eggs,Terrestrial food,0.17761561866577993,3
+Australia,Poultry Meat,Terrestrial food,0.03763871389642857,3
+Australia,Bovine Meat,Terrestrial food,0.10628695536433999,3
+Australia,Mutton and goat Meat,Terrestrial food,0.10665404698575574,3
+Australia,Pigmeat,Terrestrial food,0.10430799286412727,3
+Austria,Freshwater Fish,Aquatic food,6.17775772840832,7
+Austria,Marine Demersal Fish,Aquatic food,6.164941793471431,7
+Austria,Marine Pelagic Fish,Aquatic food,5.8650337475907275,7
+Austria,Crustaceans,Aquatic food,6.08912555264949,7
+Austria,Molluscs,Aquatic food,6.149086123539636,7
+Austria,Eggs,Terrestrial food,2.0865072762954764,7
+Austria,Poultry Meat,Terrestrial food,0.9471219254567117,7
+Austria,Bovine Meat,Terrestrial food,0.634189080581592,7
+Austria,Mutton and goat Meat,Terrestrial food,0.7905038941396622,7
+Austria,Pigmeat,Terrestrial food,0.5269102479916907,7
+Belgium,Freshwater Fish,Aquatic food,2.9859318950970217,7
+Belgium,Marine Demersal Fish,Aquatic food,2.861256115348816,7
+Belgium,Marine Pelagic Fish,Aquatic food,0.9943298518815925,7
+Belgium,Crustaceans,Aquatic food,4.7416128747363055,7
+Belgium,Molluscs,Aquatic food,3.5733498378233435,7
+Belgium,Eggs,Terrestrial food,2.1091190818694194,7
+Belgium,Poultry Meat,Terrestrial food,0.9473931519418026,7
+Belgium,Bovine Meat,Terrestrial food,0.6403737319258576,7
+Belgium,Mutton and goat Meat,Terrestrial food,0.793885948521863,7
+Belgium,Pigmeat,Terrestrial food,0.5345307362480387,7
+Brazil,Freshwater Fish,Aquatic food,18.36389350781894,7
+Brazil,Marine Demersal Fish,Aquatic food,0.7503384827304974,7
+Brazil,Marine Pelagic Fish,Aquatic food,0.7263698381137963,7
+Brazil,Crustaceans,Aquatic food,1.1859914353735799,7
+Brazil,Molluscs,Aquatic food,1.0028994865036684,7
+Brazil,Eggs,Terrestrial food,0.03350290771271428,2
+Brazil,Poultry Meat,Terrestrial food,0.2584003478592858,2
+Brazil,Bovine Meat,Terrestrial food,0.25257755946857147,2
+Brazil,Mutton and goat Meat,Terrestrial food,0.26403560419785715,2
+Brazil,Pigmeat,Terrestrial food,0.262184402594,2
+Bulgaria,Freshwater Fish,Aquatic food,5.859550581399492,7
+Bulgaria,Marine Demersal Fish,Aquatic food,6.135718335095627,7
+Bulgaria,Marine Pelagic Fish,Aquatic food,6.053167634677687,7
+Bulgaria,Crustaceans,Aquatic food,6.15309825096675,7
+Bulgaria,Molluscs,Aquatic food,6.031152665570049,7
+Bulgaria,Eggs,Terrestrial food,2.1133621146382473,7
+Bulgaria,Poultry Meat,Terrestrial food,0.9502018050785548,7
+Bulgaria,Bovine Meat,Terrestrial food,0.6330411798442006,7
+Bulgaria,Mutton and goat Meat,Terrestrial food,0.787126408629887,7
+Bulgaria,Pigmeat,Terrestrial food,0.5252336252836606,7
+Canada,Freshwater Fish,Aquatic food,28.761425725283566,7
+Canada,Marine Demersal Fish,Aquatic food,13.247505593143357,7
+Canada,Marine Pelagic Fish,Aquatic food,3.869669308525017,7
+Canada,Crustaceans,Aquatic food,7.479492273875795,7
+Canada,Molluscs,Aquatic food,11.2762782840803,7
+Canada,Eggs,Terrestrial food,0.11202524739927053,7
+Canada,Poultry Meat,Terrestrial food,0.19250334090948573,7
+Canada,Bovine Meat,Terrestrial food,1.2824916011150136,7
+Canada,Mutton and goat Meat,Terrestrial food,0.10021929188346257,7
+Canada,Pigmeat,Terrestrial food,0.0982459556549994,7
+Chile,Freshwater Fish,Aquatic food,0.2044499083918942,7
+Chile,Marine Demersal Fish,Aquatic food,0.6375560084015446,7
+Chile,Marine Pelagic Fish,Aquatic food,0.7169760121175968,7
+Chile,Crustaceans,Aquatic food,0.5355131086294251,7
+Chile,Molluscs,Aquatic food,0.5350002318939628,7
+Chile,Eggs,Terrestrial food,0.03467185299628572,2
+Chile,Poultry Meat,Terrestrial food,0.2648321437661429,2
+Chile,Bovine Meat,Terrestrial food,0.27691286489557143,2
+Chile,Mutton and goat Meat,Terrestrial food,0.25707051748357146,2
+Chile,Pigmeat,Terrestrial food,0.2573137865522857,2
+China,Freshwater Fish,Aquatic food,3.872275205718083,7
+China,Marine Demersal Fish,Aquatic food,6.44187406759554,7
+China,Marine Pelagic Fish,Aquatic food,5.351141607268203,7
+China,Crustaceans,Aquatic food,6.3681059095921135,7
+China,Molluscs,Aquatic food,1.9976430067753963,7
+China,Eggs,Terrestrial food,3.623902333691551,7
+China,Poultry Meat,Terrestrial food,0.27651246431292814,7
+China,Bovine Meat,Terrestrial food,0.12644826410592166,7
+China,Mutton and goat Meat,Terrestrial food,1.5396959036269888,7
+China,Pigmeat,Terrestrial food,1.9109840668031455,7
+Colombia,Freshwater Fish,Aquatic food,10.82751819680604,7
+Colombia,Marine Demersal Fish,Aquatic food,10.141939931809265,7
+Colombia,Marine Pelagic Fish,Aquatic food,4.850214546869991,7
+Colombia,Crustaceans,Aquatic food,3.702424275325432,7
+Colombia,Molluscs,Aquatic food,1.4317124652626918,7
+Colombia,Eggs,Terrestrial food,0.03384352196071428,2
+Colombia,Poultry Meat,Terrestrial food,0.2652392025318572,2
+Colombia,Bovine Meat,Terrestrial food,0.2566572023467143,2
+Colombia,Mutton and goat Meat,Terrestrial food,0.2601717134298571,2
+Colombia,Pigmeat,Terrestrial food,0.26013315694999994,2
+Costa Rica,Freshwater Fish,Aquatic food,20.35997019032592,7
+Costa Rica,Marine Demersal Fish,Aquatic food,12.42440909322913,7
+Costa Rica,Marine Pelagic Fish,Aquatic food,9.618199115965588,7
+Costa Rica,Crustaceans,Aquatic food,2.661863106824972,7
+Costa Rica,Molluscs,Aquatic food,1.443274199055593,7
+Costa Rica,Eggs,Terrestrial food,0.11148683031268959,7
+Costa Rica,Poultry Meat,Terrestrial food,0.2013652701205215,7
+Costa Rica,Bovine Meat,Terrestrial food,1.3631354295177258,7
+Costa Rica,Mutton and goat Meat,Terrestrial food,0.0999430425948362,7
+Costa Rica,Pigmeat,Terrestrial food,0.09668719628335197,7
+Croatia,Freshwater Fish,Aquatic food,3.219393581213002,7
+Croatia,Marine Demersal Fish,Aquatic food,0.2531762115532475,7
+Croatia,Marine Pelagic Fish,Aquatic food,0.25243200343671807,7
+Croatia,Crustaceans,Aquatic food,0.2584358436496055,7
+Croatia,Molluscs,Aquatic food,0.25605456064943344,7
+Croatia,Eggs,Terrestrial food,2.138256626170808,7
+Croatia,Poultry Meat,Terrestrial food,0.950510824139688,7
+Croatia,Bovine Meat,Terrestrial food,0.6388208621740021,7
+Croatia,Mutton and goat Meat,Terrestrial food,0.7962647253481913,7
+Croatia,Pigmeat,Terrestrial food,0.5129126389992016,7
+Czechia,Freshwater Fish,Aquatic food,6.5511936478226955,7
+Czechia,Marine Demersal Fish,Aquatic food,9.250273116745147,7
+Czechia,Marine Pelagic Fish,Aquatic food,9.114553191541672,7
+Czechia,Crustaceans,Aquatic food,9.105633093822911,7
+Czechia,Molluscs,Aquatic food,9.080935737485877,7
+Czechia,Eggs,Terrestrial food,2.144780363293406,7
+Czechia,Poultry Meat,Terrestrial food,0.9488187349773717,7
+Czechia,Bovine Meat,Terrestrial food,0.6170725510324921,7
+Czechia,Mutton and goat Meat,Terrestrial food,0.7995957688442111,7
+Czechia,Pigmeat,Terrestrial food,0.5145921177598997,7
+Denmark,Freshwater Fish,Aquatic food,1.0103993455435223,7
+Denmark,Marine Demersal Fish,Aquatic food,3.6748541331433624,7
+Denmark,Marine Pelagic Fish,Aquatic food,0.9510836675381241,7
+Denmark,Crustaceans,Aquatic food,2.8615595665963394,7
+Denmark,Molluscs,Aquatic food,2.0737103936765218,7
+Denmark,Eggs,Terrestrial food,2.118001849776992,7
+Denmark,Poultry Meat,Terrestrial food,0.9502616345363206,7
+Denmark,Bovine Meat,Terrestrial food,0.6328511064781438,7
+Denmark,Mutton and goat Meat,Terrestrial food,0.7920157200992554,7
+Denmark,Pigmeat,Terrestrial food,0.5212413823918794,7
+Estonia,Freshwater Fish,Aquatic food,12.78111483096638,7
+Estonia,Marine Demersal Fish,Aquatic food,1.2298861972083317,7
+Estonia,Marine Pelagic Fish,Aquatic food,11.712766760650718,7
+Estonia,Crustaceans,Aquatic food,8.080367845524028,7
+Estonia,Molluscs,Aquatic food,8.332971755368856,7
+Estonia,Eggs,Terrestrial food,2.0909674812783456,7
+Estonia,Poultry Meat,Terrestrial food,0.9501834727336617,7
+Estonia,Bovine Meat,Terrestrial food,0.6438630284316484,7
+Estonia,Mutton and goat Meat,Terrestrial food,0.7930252082812318,7
+Estonia,Pigmeat,Terrestrial food,0.5219500551890259,7
+Finland,Freshwater Fish,Aquatic food,0.06332946108885154,7
+Finland,Marine Demersal Fish,Aquatic food,1.2645229866926968,7
+Finland,Marine Pelagic Fish,Aquatic food,0.3147331426823567,7
+Finland,Crustaceans,Aquatic food,0.8070540595320994,7
+Finland,Molluscs,Aquatic food,0.7247950630065455,7
+Finland,Eggs,Terrestrial food,2.143044643782359,7
+Finland,Poultry Meat,Terrestrial food,0.9504463845103087,7
+Finland,Bovine Meat,Terrestrial food,0.6338084902451357,7
+Finland,Mutton and goat Meat,Terrestrial food,0.7917124354444232,7
+Finland,Pigmeat,Terrestrial food,0.5229868518781683,7
+France,Freshwater Fish,Aquatic food,8.07458170118083,7
+France,Marine Demersal Fish,Aquatic food,1.7123104915000114,7
+France,Marine Pelagic Fish,Aquatic food,11.607228378678153,7
+France,Crustaceans,Aquatic food,4.798201032634369,7
+France,Molluscs,Aquatic food,0.24573201085441193,7
+France,Eggs,Terrestrial food,2.104586069264919,7
+France,Poultry Meat,Terrestrial food,0.9476013083405292,7
+France,Bovine Meat,Terrestrial food,0.6378283260007688,7
+France,Mutton and goat Meat,Terrestrial food,0.7963145947022285,7
+France,Pigmeat,Terrestrial food,0.5359506181580073,7
+Germany,Freshwater Fish,Aquatic food,6.408165481860516,7
+Germany,Marine Demersal Fish,Aquatic food,3.2984590695606197,7
+Germany,Marine Pelagic Fish,Aquatic food,3.9291570611514373,7
+Germany,Crustaceans,Aquatic food,4.718851706411515,7
+Germany,Molluscs,Aquatic food,0.254767340165846,7
+Germany,Eggs,Terrestrial food,2.1953165721601273,7
+Germany,Poultry Meat,Terrestrial food,0.95065640487855,7
+Germany,Bovine Meat,Terrestrial food,0.6306379173180215,7
+Germany,Mutton and goat Meat,Terrestrial food,0.7956101708072553,7
+Germany,Pigmeat,Terrestrial food,0.5230080794298638,7
+Greece,Freshwater Fish,Aquatic food,0.8238923018016759,6
+Greece,Marine Demersal Fish,Aquatic food,0.9432068024651727,6
+Greece,Marine Pelagic Fish,Aquatic food,1.3027869770405176,6
+Greece,Crustaceans,Aquatic food,1.139437899322011,6
+Greece,Molluscs,Aquatic food,1.1071187105803213,6
+Greece,Eggs,Terrestrial food,2.1484334831678975,7
+Greece,Poultry Meat,Terrestrial food,0.9491857742012463,7
+Greece,Bovine Meat,Terrestrial food,0.6493406441115184,7
+Greece,Mutton and goat Meat,Terrestrial food,0.8011075464252437,7
+Greece,Pigmeat,Terrestrial food,0.5199557904176243,7
+Hungary,Freshwater Fish,Aquatic food,6.072892864438161,7
+Hungary,Marine Demersal Fish,Aquatic food,6.00438747991335,7
+Hungary,Marine Pelagic Fish,Aquatic food,6.016648427355725,7
+Hungary,Crustaceans,Aquatic food,6.0516541264415356,7
+Hungary,Molluscs,Aquatic food,5.97736479648683,7
+Hungary,Eggs,Terrestrial food,2.0901996064430577,7
+Hungary,Poultry Meat,Terrestrial food,0.9475834430802441,7
+Hungary,Bovine Meat,Terrestrial food,0.6309918762903601,7
+Hungary,Mutton and goat Meat,Terrestrial food,0.8043568158840592,7
+Hungary,Pigmeat,Terrestrial food,0.5213459686886142,7
+Iceland,Freshwater Fish,Aquatic food,0.6347831442798868,7
+Iceland,Marine Demersal Fish,Aquatic food,5.187015245275633,7
+Iceland,Marine Pelagic Fish,Aquatic food,1.6233856446255213,7
+Iceland,Crustaceans,Aquatic food,0.9932916749955161,7
+Iceland,Molluscs,Aquatic food,3.870775895857121,7
+Iceland,Eggs,Terrestrial food,2.1207092918498462,7
+Iceland,Poultry Meat,Terrestrial food,0.9518267903821233,7
+Iceland,Bovine Meat,Terrestrial food,0.6395584665195836,7
+Iceland,Mutton and goat Meat,Terrestrial food,0.8047141076130859,7
+Iceland,Pigmeat,Terrestrial food,0.5249635808363393,7
+India,Freshwater Fish,Aquatic food,2.6209487601952075,7
+India,Marine Demersal Fish,Aquatic food,1.5749798542041082,7
+India,Marine Pelagic Fish,Aquatic food,2.0830074900209015,7
+India,Crustaceans,Aquatic food,4.2123578230531615,7
+India,Molluscs,Aquatic food,1.3023656817539395,7
+India,Eggs,Terrestrial food,3.4826259738941285,7
+India,Poultry Meat,Terrestrial food,0.2619088010852811,7
+India,Bovine Meat,Terrestrial food,0.13566466905246374,7
+India,Mutton and goat Meat,Terrestrial food,1.5652836089106756,7
+India,Pigmeat,Terrestrial food,1.9525244320448478,7
+Indonesia,Freshwater Fish,Aquatic food,3.00904933985443,7
+Indonesia,Marine Demersal Fish,Aquatic food,1.8231270010237748,7
+Indonesia,Marine Pelagic Fish,Aquatic food,1.3809738064925765,7
+Indonesia,Crustaceans,Aquatic food,4.313174653198679,7
+Indonesia,Molluscs,Aquatic food,2.388748110807084,7
+Indonesia,Eggs,Terrestrial food,3.3349409879008007,7
+Indonesia,Poultry Meat,Terrestrial food,0.27368792927069807,7
+Indonesia,Bovine Meat,Terrestrial food,0.11811649441847366,7
+Indonesia,Mutton and goat Meat,Terrestrial food,1.5008442459433384,7
+Indonesia,Pigmeat,Terrestrial food,1.864815247145991,7
+Ireland,Freshwater Fish,Aquatic food,3.3889695347576194,7
+Ireland,Marine Demersal Fish,Aquatic food,2.881580403243987,7
+Ireland,Marine Pelagic Fish,Aquatic food,1.6297723444222014,7
+Ireland,Crustaceans,Aquatic food,2.3361906978875266,7
+Ireland,Molluscs,Aquatic food,2.1894420020110523,7
+Ireland,Eggs,Terrestrial food,2.1761915738345805,7
+Ireland,Poultry Meat,Terrestrial food,0.9526313051515165,7
+Ireland,Bovine Meat,Terrestrial food,0.6365014186692588,7
+Ireland,Mutton and goat Meat,Terrestrial food,0.7964058107068933,7
+Ireland,Pigmeat,Terrestrial food,0.5220182723417599,7
+Israel,Freshwater Fish,Aquatic food,0.23130812739302956,6
+Israel,Marine Demersal Fish,Aquatic food,0.23722016865158824,6
+Israel,Marine Pelagic Fish,Aquatic food,0.2289700314899048,6
+Israel,Crustaceans,Aquatic food,0.2339311984142956,6
+Israel,Molluscs,Aquatic food,0.23141272935487894,6
+Israel,Eggs,Terrestrial food,3.284256444021814,7
+Israel,Poultry Meat,Terrestrial food,0.25819795483542923,7
+Israel,Bovine Meat,Terrestrial food,0.1306951983348284,7
+Israel,Mutton and goat Meat,Terrestrial food,1.5191926440095975,7
+Israel,Pigmeat,Terrestrial food,2.0035066288583003,7
+Italy,Freshwater Fish,Aquatic food,6.619628231165272,7
+Italy,Marine Demersal Fish,Aquatic food,0.26735801089586947,7
+Italy,Marine Pelagic Fish,Aquatic food,0.30130414374475756,7
+Italy,Crustaceans,Aquatic food,0.2665384094875058,7
+Italy,Molluscs,Aquatic food,0.2676365238609818,7
+Italy,Eggs,Terrestrial food,2.1287350085661325,7
+Italy,Poultry Meat,Terrestrial food,0.9493134532619357,7
+Italy,Bovine Meat,Terrestrial food,0.6442832697474075,7
+Italy,Mutton and goat Meat,Terrestrial food,0.7939047534699073,7
+Italy,Pigmeat,Terrestrial food,0.5198698734772403,7
+Japan,Freshwater Fish,Aquatic food,1.1377939330673144,7
+Japan,Marine Demersal Fish,Aquatic food,1.437536685254194,7
+Japan,Marine Pelagic Fish,Aquatic food,0.3331118295985681,7
+Japan,Crustaceans,Aquatic food,17.53699112143609,7
+Japan,Molluscs,Aquatic food,1.2678513612282698,7
+Japan,Eggs,Terrestrial food,3.717032942206151,7
+Japan,Poultry Meat,Terrestrial food,0.27198376514958045,7
+Japan,Bovine Meat,Terrestrial food,0.11766861363441632,7
+Japan,Mutton and goat Meat,Terrestrial food,1.558820404503279,7
+Japan,Pigmeat,Terrestrial food,1.7609620121217333,7
+Korea,Freshwater Fish,Aquatic food,0.9100440393491821,7
+Korea,Marine Demersal Fish,Aquatic food,1.1755733625669782,7
+Korea,Marine Pelagic Fish,Aquatic food,0.5687676209556869,7
+Korea,Crustaceans,Aquatic food,16.721517603801484,7
+Korea,Molluscs,Aquatic food,3.217631363684825,7
+Korea,Eggs,Terrestrial food,3.6211817362245773,7
+Korea,Poultry Meat,Terrestrial food,0.2704806734002097,7
+Korea,Bovine Meat,Terrestrial food,0.14436713746434457,7
+Korea,Mutton and goat Meat,Terrestrial food,1.4824619051078907,7
+Korea,Pigmeat,Terrestrial food,1.995474575601856,7
+Latvia,Freshwater Fish,Aquatic food,0.06130052693791604,7
+Latvia,Marine Demersal Fish,Aquatic food,1.216730520166584,7
+Latvia,Marine Pelagic Fish,Aquatic food,0.3106939353309559,7
+Latvia,Crustaceans,Aquatic food,0.7912517415477213,7
+Latvia,Molluscs,Aquatic food,0.7573375211500498,7
+Latvia,Eggs,Terrestrial food,2.0972220147496095,7
+Latvia,Poultry Meat,Terrestrial food,0.9508849929811919,7
+Latvia,Bovine Meat,Terrestrial food,0.6340886741134985,7
+Latvia,Mutton and goat Meat,Terrestrial food,0.7954243997963732,7
+Latvia,Pigmeat,Terrestrial food,0.5215715583314519,7
+Lithuania,Freshwater Fish,Aquatic food,0.06164395743613991,7
+Lithuania,Marine Demersal Fish,Aquatic food,1.1686168036530893,7
+Lithuania,Marine Pelagic Fish,Aquatic food,0.31564260091268764,7
+Lithuania,Crustaceans,Aquatic food,0.7460647487412478,7
+Lithuania,Molluscs,Aquatic food,0.7856917093872208,7
+Lithuania,Eggs,Terrestrial food,2.1147011899776413,7
+Lithuania,Poultry Meat,Terrestrial food,0.9498536643669283,7
+Lithuania,Bovine Meat,Terrestrial food,0.6210431455891648,7
+Lithuania,Mutton and goat Meat,Terrestrial food,0.788525073648379,7
+Lithuania,Pigmeat,Terrestrial food,0.5224169825723196,7
+Luxembourg,Freshwater Fish,Aquatic food,15.783282226752252,7
+Luxembourg,Marine Demersal Fish,Aquatic food,16.518331273615072,7
+Luxembourg,Marine Pelagic Fish,Aquatic food,15.14455438438171,7
+Luxembourg,Crustaceans,Aquatic food,15.57636713157497,7
+Luxembourg,Molluscs,Aquatic food,15.871722475581844,7
+Luxembourg,Eggs,Terrestrial food,2.1200596452181797,7
+Luxembourg,Poultry Meat,Terrestrial food,0.9508487558719719,7
+Luxembourg,Bovine Meat,Terrestrial food,0.6313830839636843,7
+Luxembourg,Mutton and goat Meat,Terrestrial food,0.7998553138075155,7
+Luxembourg,Pigmeat,Terrestrial food,0.5246005622478024,7
+Mexico,Freshwater Fish,Aquatic food,20.368333370890962,7
+Mexico,Marine Demersal Fish,Aquatic food,12.37952471804289,7
+Mexico,Marine Pelagic Fish,Aquatic food,9.70557287201192,7
+Mexico,Crustaceans,Aquatic food,2.65421279578151,7
+Mexico,Molluscs,Aquatic food,1.436881818609617,7
+Mexico,Eggs,Terrestrial food,0.11205503313625756,7
+Mexico,Poultry Meat,Terrestrial food,0.21917526689825395,7
+Mexico,Bovine Meat,Terrestrial food,1.316055529159425,7
+Mexico,Mutton and goat Meat,Terrestrial food,0.10063838001213887,7
+Mexico,Pigmeat,Terrestrial food,0.09646096305365598,7
+Netherlands,Freshwater Fish,Aquatic food,1.486519206322203,7
+Netherlands,Marine Demersal Fish,Aquatic food,2.7968588373831724,7
+Netherlands,Marine Pelagic Fish,Aquatic food,0.9834127967824284,7
+Netherlands,Crustaceans,Aquatic food,4.715239366640972,7
+Netherlands,Molluscs,Aquatic food,0.24868329603330433,7
+Netherlands,Eggs,Terrestrial food,2.0953700901660874,7
+Netherlands,Poultry Meat,Terrestrial food,0.9503808356521741,7
+Netherlands,Bovine Meat,Terrestrial food,0.6400909187860019,7
+Netherlands,Mutton and goat Meat,Terrestrial food,0.7917612181065516,7
+Netherlands,Pigmeat,Terrestrial food,0.5252320150839868,7
+New Zealand,Freshwater Fish,Aquatic food,0.056901883149064955,7
+New Zealand,Marine Demersal Fish,Aquatic food,0.009893342843042822,7
+New Zealand,Marine Pelagic Fish,Aquatic food,0.016519049080791045,7
+New Zealand,Crustaceans,Aquatic food,0.1346251873943409,7
+New Zealand,Molluscs,Aquatic food,0.0016798006110913973,7
+New Zealand,Eggs,Terrestrial food,0.17745937076187984,3
+New Zealand,Poultry Meat,Terrestrial food,0.03807762402857143,3
+New Zealand,Bovine Meat,Terrestrial food,0.10645860083198691,3
+New Zealand,Mutton and goat Meat,Terrestrial food,0.10768610106621936,3
+New Zealand,Pigmeat,Terrestrial food,0.1083438208208974,3
+Norway,Freshwater Fish,Aquatic food,3.4896848233520004,7
+Norway,Marine Demersal Fish,Aquatic food,5.492204870750029,7
+Norway,Marine Pelagic Fish,Aquatic food,2.6349242001983098,7
+Norway,Crustaceans,Aquatic food,2.8324786403224254,7
+Norway,Molluscs,Aquatic food,3.5308734711188285,7
+Norway,Eggs,Terrestrial food,2.1097949787447825,7
+Norway,Poultry Meat,Terrestrial food,0.9489042098175269,7
+Norway,Bovine Meat,Terrestrial food,0.6370169086174146,7
+Norway,Mutton and goat Meat,Terrestrial food,0.8015444308377385,7
+Norway,Pigmeat,Terrestrial food,0.5206489224171685,7
+Poland,Freshwater Fish,Aquatic food,0.0638175541153646,7
+Poland,Marine Demersal Fish,Aquatic food,1.16546451369367,7
+Poland,Marine Pelagic Fish,Aquatic food,0.3217719979381372,7
+Poland,Crustaceans,Aquatic food,0.8141213718938956,7
+Poland,Molluscs,Aquatic food,0.735910003523426,7
+Poland,Eggs,Terrestrial food,2.131815810960937,7
+Poland,Poultry Meat,Terrestrial food,0.9516674477216134,7
+Poland,Bovine Meat,Terrestrial food,0.6374967181576974,7
+Poland,Mutton and goat Meat,Terrestrial food,0.8050960853703862,7
+Poland,Pigmeat,Terrestrial food,0.5166912778489557,7
+Portugal,Freshwater Fish,Aquatic food,0.7711278069146881,1
+Portugal,Marine Demersal Fish,Aquatic food,0.7787214422519784,1
+Portugal,Marine Pelagic Fish,Aquatic food,0.7717480508770248,1
+Portugal,Crustaceans,Aquatic food,0.7769568831102954,1
+Portugal,Molluscs,Aquatic food,0.7749440201092244,1
+Portugal,Eggs,Terrestrial food,2.0911468958294424,7
+Portugal,Poultry Meat,Terrestrial food,0.9499198494401119,7
+Portugal,Bovine Meat,Terrestrial food,0.6376778127878596,7
+Portugal,Mutton and goat Meat,Terrestrial food,0.800834224601026,7
+Portugal,Pigmeat,Terrestrial food,0.5159394665603362,7
+Romania,Freshwater Fish,Aquatic food,6.141692838966295,7
+Romania,Marine Demersal Fish,Aquatic food,6.173523128067085,7
+Romania,Marine Pelagic Fish,Aquatic food,6.270345885857072,7
+Romania,Crustaceans,Aquatic food,6.167860291075096,7
+Romania,Molluscs,Aquatic food,6.071517609415126,7
+Romania,Eggs,Terrestrial food,2.092033309596116,7
+Romania,Poultry Meat,Terrestrial food,0.9485419345762949,7
+Romania,Bovine Meat,Terrestrial food,0.6320043303434313,7
+Romania,Mutton and goat Meat,Terrestrial food,0.7920520261611734,7
+Romania,Pigmeat,Terrestrial food,0.518752909906028,7
+Slovak Republic,Freshwater Fish,Aquatic food,6.028424009375196,7
+Slovak Republic,Marine Demersal Fish,Aquatic food,6.15795463156094,7
+Slovak Republic,Marine Pelagic Fish,Aquatic food,6.170193608501248,7
+Slovak Republic,Crustaceans,Aquatic food,6.072600646340671,7
+Slovak Republic,Molluscs,Aquatic food,6.322212236754472,7
+Slovak Republic,Eggs,Terrestrial food,2.134320315103425,7
+Slovak Republic,Poultry Meat,Terrestrial food,0.9501979205905078,7
+Slovak Republic,Bovine Meat,Terrestrial food,0.6565114128980273,7
+Slovak Republic,Mutton and goat Meat,Terrestrial food,0.794850577777471,7
+Slovak Republic,Pigmeat,Terrestrial food,0.5319718814888561,7
+Slovenia,Freshwater Fish,Aquatic food,3.4534656509185933,7
+Slovenia,Marine Demersal Fish,Aquatic food,0.2589505688676811,7
+Slovenia,Marine Pelagic Fish,Aquatic food,0.2530756282229985,7
+Slovenia,Crustaceans,Aquatic food,0.2539922769994644,7
+Slovenia,Molluscs,Aquatic food,0.2558399974898281,7
+Slovenia,Eggs,Terrestrial food,2.0966892575687015,7
+Slovenia,Poultry Meat,Terrestrial food,0.9479366133665833,7
+Slovenia,Bovine Meat,Terrestrial food,0.6350833940022396,7
+Slovenia,Mutton and goat Meat,Terrestrial food,0.7951495968318443,7
+Slovenia,Pigmeat,Terrestrial food,0.5236895321426359,7
+South Africa,Freshwater Fish,Aquatic food,6.4185359707252765,7
+South Africa,Marine Demersal Fish,Aquatic food,62.55914286666384,7
+South Africa,Marine Pelagic Fish,Aquatic food,24.050448797623154,7
+South Africa,Crustaceans,Aquatic food,3.2165041500028297,7
+South Africa,Molluscs,Aquatic food,0.07909920304739047,7
+South Africa,Eggs,Terrestrial food,0.13205718599490007,3
+South Africa,Poultry Meat,Terrestrial food,0.04714455855828571,3
+South Africa,Bovine Meat,Terrestrial food,0.040396398195094566,3
+South Africa,Mutton and goat Meat,Terrestrial food,0.07978866822597841,3
+South Africa,Pigmeat,Terrestrial food,0.07403106651771986,3
+Spain,Freshwater Fish,Aquatic food,1.2028666137763426,7
+Spain,Marine Demersal Fish,Aquatic food,1.0190472371415027,7
+Spain,Marine Pelagic Fish,Aquatic food,0.8183553631591661,7
+Spain,Crustaceans,Aquatic food,0.529561655579583,7
+Spain,Molluscs,Aquatic food,0.6845042774872716,7
+Spain,Eggs,Terrestrial food,2.0835513202129174,7
+Spain,Poultry Meat,Terrestrial food,0.9498612165015021,7
+Spain,Bovine Meat,Terrestrial food,0.6122099455229162,7
+Spain,Mutton and goat Meat,Terrestrial food,0.798924725692203,7
+Spain,Pigmeat,Terrestrial food,0.5086291985206509,7
+Sweden,Freshwater Fish,Aquatic food,1.838638134047983,7
+Sweden,Marine Demersal Fish,Aquatic food,2.6890616918019505,7
+Sweden,Marine Pelagic Fish,Aquatic food,0.6562986195014331,7
+Sweden,Crustaceans,Aquatic food,4.712398436821874,7
+Sweden,Molluscs,Aquatic food,0.24899544958620132,7
+Sweden,Eggs,Terrestrial food,2.1267950321150755,7
+Sweden,Poultry Meat,Terrestrial food,0.9518750559307119,7
+Sweden,Bovine Meat,Terrestrial food,0.633657900752897,7
+Sweden,Mutton and goat Meat,Terrestrial food,0.7923639906247144,7
+Sweden,Pigmeat,Terrestrial food,0.529494726688779,7
+Switzerland,Freshwater Fish,Aquatic food,8.801772291678654,7
+Switzerland,Marine Demersal Fish,Aquatic food,24.082518751110847,7
+Switzerland,Marine Pelagic Fish,Aquatic food,22.557642491580992,7
+Switzerland,Crustaceans,Aquatic food,22.996461298302002,7
+Switzerland,Molluscs,Aquatic food,24.82358579056295,7
+Switzerland,Eggs,Terrestrial food,2.111027495520229,7
+Switzerland,Poultry Meat,Terrestrial food,0.9512049603474513,7
+Switzerland,Bovine Meat,Terrestrial food,0.6335648789842798,7
+Switzerland,Mutton and goat Meat,Terrestrial food,0.7927692497891204,7
+Switzerland,Pigmeat,Terrestrial food,0.5196185498324757,7
+Turkiye,Freshwater Fish,Aquatic food,1.9728358010774332,7
+Turkiye,Marine Demersal Fish,Aquatic food,1.8995056641516794,7
+Turkiye,Marine Pelagic Fish,Aquatic food,2.0620368580618855,7
+Turkiye,Crustaceans,Aquatic food,2.057191198131124,7
+Turkiye,Molluscs,Aquatic food,2.030708081719042,7
+Turkiye,Eggs,Terrestrial food,3.4928864930236356,7
+Turkiye,Poultry Meat,Terrestrial food,0.24804279167062224,7
+Turkiye,Bovine Meat,Terrestrial food,0.12512000495920866,7
+Turkiye,Mutton and goat Meat,Terrestrial food,1.5113542385210899,7
+Turkiye,Pigmeat,Terrestrial food,1.9444485618244012,7
+United Kingdom,Freshwater Fish,Aquatic food,2.7703786663201044,7
+United Kingdom,Marine Demersal Fish,Aquatic food,4.019697315585797,7
+United Kingdom,Marine Pelagic Fish,Aquatic food,1.131791721242782,7
+United Kingdom,Crustaceans,Aquatic food,2.793411112468332,7
+United Kingdom,Molluscs,Aquatic food,2.0910707555322996,7
+United Kingdom,Eggs,Terrestrial food,2.149816302830334,7
+United Kingdom,Poultry Meat,Terrestrial food,0.9526845862056346,7
+United Kingdom,Bovine Meat,Terrestrial food,0.6414609861931361,7
+United Kingdom,Mutton and goat Meat,Terrestrial food,0.7986889270878649,7
+United Kingdom,Pigmeat,Terrestrial food,0.5236779603380998,7
+United States,Freshwater Fish,Aquatic food,33.36349336937692,7
+United States,Marine Demersal Fish,Aquatic food,9.865748659514379,7
+United States,Marine Pelagic Fish,Aquatic food,6.2921051992583665,7
+United States,Crustaceans,Aquatic food,4.713805261071796,7
+United States,Molluscs,Aquatic food,5.783161930046968,7
+United States,Eggs,Terrestrial food,0.1100927794941945,7
+United States,Poultry Meat,Terrestrial food,0.19130152717832685,7
+United States,Bovine Meat,Terrestrial food,1.3354765587818012,7
+United States,Mutton and goat Meat,Terrestrial food,0.10111296826864503,7
+United States,Pigmeat,Terrestrial food,0.09742291693897838,7

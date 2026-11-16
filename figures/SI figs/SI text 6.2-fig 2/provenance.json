@@ -1,0 +1,40 @@
+{
+  "source_type": "verified underlying model scores",
+  "source_file": "G:\\projects\\BLUE FOOD\\manuscript 0203\\F1 and AUC for disease outcomes.xlsx",
+  "source_sha256": "06ef7e796d5c77bc8243035f755eb55e3f0cb3c93e7652597b6c14c71303ac1d",
+  "current_si_media": "word/media/image54.png",
+  "chart_cache_matches_sheet_values": true,
+  "cutoff_detail": "The original figure's labeled dashed cutoffs are preserved. Counts at or above those rounded cutoffs differ slightly from exactly 150. The exact 150th ranked scores are reported separately.",
+  "outcomes": {
+    "BPQ020": {
+      "pairs": 3000,
+      "source_worksheet_range": "Sheet1!F3:G3002",
+      "auc_range": [
+        0.8030805040636373,
+        0.9143731533793082
+      ],
+      "f1_range": [
+        0.5441935412812279,
+        0.6989993282744389
+      ],
+      "original_dashed_line": 0.6704,
+      "points_at_or_above_original_line": 151,
+      "exact_150th_highest_score": 0.6704977539364982
+    },
+    "MCQ160A": {
+      "pairs": 3000,
+      "source_worksheet_range": "Sheet1!I3:J3002",
+      "auc_range": [
+        0.6101152862028264,
+        0.860572561341347
+      ],
+      "f1_range": [
+        0.1523862000007806,
+        0.5378592561263663
+      ],
+      "original_dashed_line": 0.5016,
+      "points_at_or_above_original_line": 149,
+      "exact_150th_highest_score": 0.5015694465314714
+    }
+  }
+}

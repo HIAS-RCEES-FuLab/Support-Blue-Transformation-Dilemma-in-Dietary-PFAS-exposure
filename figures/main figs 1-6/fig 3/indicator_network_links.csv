@@ -1,0 +1,27 @@
+﻿from_code,to_code,type,reference
+LBXHGB,LBDSTBSI,physiology,1
+LBDSTBSI,LBXSAL,physiology,2
+LBXSAL,LBDSCASI,physiology,3
+LBDSUASI,BPQ020,cohort,4
+LBXSGTSI,BPQ020,cohort,5
+BPQ020,BPXSY1,context,6
+BPQ020,BPXDI1,context,6
+LBXSCH,BPQ020,cohort,7
+LBXSGTSI,stress,context,8
+flow,stress,physiology,9
+stress,MCQ160A,literature on arthritis subtypes,10
+LBDSUASI,gout,cohort,11
+LBDSCRSI,kidney,context,12
+bicarbonate,kidney,context,13
+LBDSCASI,kidney,context,14
+LBDSUASI,kidney,context,15
+ppara,lipids,physiology,16
+lipids,LBXSCH,context,17
+PFAS,LBXSAL,albumin binding / carriage,18
+PFAS,LBXHGB,in vitro haemoglobin binding,19
+PFAS,globulins,in vitro gamma-globulin binding,20
+PFAS,ppara,in vitro receptor binding,21
+PFAS,oat3,in vitro transporter-substrate interaction,22
+MCQ160A,gout,literature on arthritis subtypes,23
+LBXSAL,C_AGR,calculation input (numerator),24
+LBXSCH,C_LDL,calculation input,25

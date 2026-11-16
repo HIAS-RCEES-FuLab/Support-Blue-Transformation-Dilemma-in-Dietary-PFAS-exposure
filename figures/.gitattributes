@@ -1,0 +1,3 @@
+# Preserve the supplied figure assets and archive inputs byte for byte.
+* -text
+*.zip -filter -diff -merge -text
