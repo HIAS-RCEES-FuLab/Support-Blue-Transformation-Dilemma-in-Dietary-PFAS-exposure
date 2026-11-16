@@ -105,4 +105,4 @@ The serum stage writes country_serum_concentrations.csv and regional_world_serum
 
 ### Participant ages for continuous outcomes
 
-[model_participants_ages.csv](source/research/assets/health/published_data/model_participants_ages.csv) accompanies the cleaned continuous outcomes workbook. Join by `SEQN` to match `RIDAGEYR` to all 7,618 participants. The supplied CSV also has a populated age on a row without `SEQN` and one blank row. The age table is supplied separately from the model inputs used for fitting.
+[model_participants_ages.csv](source/research/assets/health/published_data/model_participants_ages.csv) accompanies the cleaned continuous outcomes workbook. Join by `SEQN` to match `RIDAGEYR` to all 7,618 participants. The age table is supplied separately from the model inputs used for fitting.
